@@ -1,0 +1,100 @@
+identity:
+  name: Estée Lauder (雅诗·兰黛 / Josephine Esther Mentzer)
+  nationality: 美国 (USA)
+  era: 历史现代 (1906/1908年出生，1946年正式成立公司，2004年逝世)
+  industry: 美妆护肤 / 奢侈消费品 (Cosmetics / Beauty)
+  role: 雅诗兰黛集团联合创始人、化妆品女皇、20世纪商业传奇领袖
+
+background:
+  childhood: 出生于纽约皇后区科罗纳，父母为匈牙利与捷克犹太移民，父亲经营五金杂货铺。全家住在五金店楼上，自幼在店里帮忙包装商品并观察顾客心理。
+  family: 犹太移民家庭，舅舅约翰·肖茨 (John Schotz) 为化学家，在后院自制护肤冷霜，启蒙了其配方研发兴趣。
+  socioeconomic_background: 典型城市移民底层工薪阶层，无家族大额资本或上流社会人脉。
+  education: 纽敦高中 (Newtown High School) 毕业，未接受大学教育。
+  initial_resources: 舅舅研发的四款基础面霜配方，以及在曼哈顿美容院借用空间为顾客做脸展示的勤奋。
+
+life_stage:
+  age_at_key_decision: 约 40 岁（1946年）与丈夫正式创立雅诗兰黛公司；47 岁（1953年）推出革命性沐浴油 Youth-Dew (青春之露) 引爆全国；中老年主导多品牌跨国并购。
+  relationship_status_if_relevant: 与约瑟夫·兰黛 (Joseph Lauder) 结婚；曾经历 1939 年短暂离婚，后深刻意识到两人在商业与生活上无可替代的互补性于 1942 年复婚并终身相守。
+  children_if_publicly_documented: 育有两子（莱纳德 Leonard Lauder、罗纳德 Ronald Lauder），成年后均被系统培养并接掌集团核心权力。
+  caregiving_responsibility_if_relevant: 早期将厨房作为试验室，将家庭生活与商业创业物理合一，两名儿子自幼参与贴标签与送货。
+
+constraints:
+  financial: 早期无广告预算，无资金在主流时尚杂志投放整页广告。
+  family: 经历过一次婚姻破裂后的破镜重圆，对家庭商业利益绑定有极高防范。
+  reproductive: 创业成熟期已完成生育，全力将两子培养为家族商业接班人。
+  social: 1930–1940 年代纽约高端百货（如 Saks Fifth Avenue）由老牌保守精英男性垄断，冷酷排斥街头出身的小作坊产品。
+  gender: 化妆品行业高管与大百货采购经理清一色为男性，将美妆视为女性无聊的琐事。
+  career: 无大型企业背景，靠挨家挨户在美容院做脸起家。
+  age: 40 岁才正式注册公司，属于成熟中年创业。
+  geography: 从纽约皇后区工薪社区打入曼哈顿第五大道核心商圈。
+  immigration: 犹太移民第二代，深刻理解局外人要想立足必须付出超越常人的努力。
+  capital_access: 坚决拒绝外部风险投资，前数十年依靠自有营运利润滚动。
+
+career:
+  previous_work: 协助打理五金店、在美发沙龙为做头发的贵妇义务做脸试用护肤霜。
+  transition: 敏锐发现女性坐在美发烘干机下动弹不得的半小时是绝佳的“封闭销售场景”，以试用攻占美容院顾客心智。
+  business_model: 线下高端百货专柜体验式销售 + 首创“买正装送小样 (Gift with Purchase)” + 家族控股多品牌矩阵。
+  source_of_capital: 100% 销售收入滚动留存自筹，严格控制银行借贷。
+  ownership: 终身保持家族绝对控股（即使 1995 年上市后，兰黛家族依然牢牢掌控超 80% 的超级投票权）。
+  revenue_model: 高毛利化妆品与香水零售，全球年营收超 150 亿美元。
+
+key_decisions:
+  - decision: 首创“买赠活动 (Gift with Purchase)”与免费试用哲学，颠覆传统零售
+    context: 创业初期账面仅有几百美元，根本雇不起广告代理商投放电视与报刊硬广。
+    alternatives: 借高利贷打广告；降价打折在廉价药妆店倾销。
+    risk: 赠送高规格小样会直接侵蚀本已微薄的短期毛利，若复购不达标将直接破产。
+    reason: 坚信“女人的皮肤会替产品说话”；口号是“告诉一个女人，就等于传遍全世界 (Tell-a-Woman)”。
+    outcome: 发明了现代美妆行业通行的 GWP (Gift with Purchase) 制度，赠送的小样引爆了二次复购狂潮，百货专柜排起长龙。
+  - decision: 推出 Youth-Dew (青春之露) 沐浴香油，打破“女性等男性送香水”的社会文化枷锁
+    context: 1950 年代法国高档香水极其昂贵，被定义为“男性在纪念日送给女性的奢侈礼物”，女性自己不会主动购买香水。
+    alternatives: 继续做传统高端昂贵的小瓶装法式香水。
+    risk: 挑战当时的男权消费社会传统，可能被批评“缺乏上流阶层体面”。
+    reason: 将香水做成日常沐浴油（售价仅 8.5 美元），让女性可以自己掏钱买来倒在浴缸里，把奢侈品变成日常自主消费。
+    outcome: 上线第一年卖出 5 万瓶，到 1984 年年销量突破 1.5 亿瓶，彻底打破法国香水垄断，奠定了雅诗兰黛集团千亿帝国的现金牛底座。
+
+failures:
+  - failure: 早期试图强行打入巴黎老佛爷等顶级百货遭遇冷遇闭门羹
+    cause: 法国老牌贵族百货极其看不起美国新起之秀，认为美国没有真正的顶级调香师。
+    response: 在老佛爷百货大厅里“不小心”把一整瓶 Youth-Dew 摔碎在大理石地面上，浓郁芬芳瞬间弥漫整个商场，引得成百上千顾客围拢询问哪里能买到。
+    consequence: 老佛爷百货管理层迫于现场汹涌的顾客需求，当天立即签署柜台采购合同。
+
+turning_points:
+  - event: 1946 年获得 Saks Fifth Avenue 百货价值 800 美元的首笔大额订单。
+    decision: 将全部流动资金押上，连续数天亲自站在 Saks 柜台前为顾客亲自洗脸涂抹。
+    result: 专柜两天内所有现货全部售罄，雅诗兰黛正式确立了高端百货的一线统治地位。
+
+relationships_and_power:
+  mentors: 舅舅约翰·肖茨 (John Schotz，技术配方启蒙)。
+  partners: 约瑟夫·兰黛 (Joseph Lauder，丈夫，负责财务控制与工厂后台，形成完美的“前店后厂”协同)。
+  networks: 纽约社交名流女性同盟、温莎公爵夫人、格蕾丝·凯莉王妃。
+  investors: 无（长达半个世纪坚持家族独资闭环）。
+  institutions: 纽约第五大道商会、大都会艺术博物馆。
+
+wealth:
+  starting_point: 极低工薪阶层，厨房手工熬制面霜起步。
+  wealth_creation_mechanism: 超级消费品牌溢价 + 体验式营销高复购 + 家族代际多品牌并购（倩碧 Clinique、海蓝之谜 La Mer、MAC 等）。
+  capital_strategy: 坚持家族对投票权的绝对垄断，通过设立家族双重股权结构 (Dual-Class Shares) 确保后代始终稳坐董事会掌门之位。
+
+decision_patterns:
+  - pattern: "触点体验降维打击：在顾客无法抗拒或防备的封闭场景（如美发烘干机下、商场专柜现场），用双手直接触碰用户建立极端黏性。"
+  - pattern: "重构消费文化主体：将传统依附于男权赠予的被动消费品（香水），重构为女性取悦自身的日常刚需，释放百倍市场增量。"
+
+anti_patterns:
+  - pattern: "在没有产品真实口碑验证前盲目挥霍巨额广告预算，导致资金链过早枯竭。"
+
+transferability:
+  highly_transferable:
+    - "免费试用小样 (Sampling) 与买赠机制作为极高 ROI 的获客杠杆。"
+    - "深入真实线下场景做现场面对面交付，亲自触碰第一批种子用户。"
+    - "将奢侈品降维为中产女性自我奖励的微型刚需。"
+  context_dependent:
+    - "二战后美国中产阶级崛起与高端百货专柜黄金时期的渠道红利。"
+  not_transferable:
+    - "极度无所顾忌、甚至敢在奢华百货大厅公开'砸碎香水瓶'以博取眼球的非凡街头推销决断力。"
+
+evidence:
+  sources:
+    - "Estée Lauder: Estée: A Success Story (个人正式官方自传)"
+    - "Leonard Lauder: The Company I Keep: My Life in Beauty"
+    - "Harvard Business School Case Study: Estée Lauder: The Company and the Family"
+  evidence_level: "documented fact (上市公司公开档案、正式商业自传、哈佛商学院权威研究)"

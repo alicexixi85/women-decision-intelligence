@@ -1,0 +1,101 @@
+identity:
+  name: Diane Hendricks (戴安·亨德里克斯)
+  nationality: 美国 (USA)
+  era: 现代 (1947年出生，1982年35岁联合创立 ABC Supply)
+  industry: 实体制造 / 建材批发 / 工业分销与房地产 (Building Materials / Wholesale)
+  role: ABC Supply 董事长兼唯一所有者、亨德里克斯控股公司董事长、连续多年蝉联全美白手起家女首富
+
+background:
+  childhood: 出生于威斯康星州曼多维尔的一个奶牛农场，家中有 9 个姐妹，自幼参与繁重的挤奶、田间劳作，培养了强烈的体力劳动与商业务实观。
+  family: 17 岁未婚先孕，成为单亲母亲，面临小镇社区严重的道德偏见。
+  socioeconomic_background: 农村普通工薪与家庭农场阶层，早期无任何家族信托或外部财务资助。
+  education: 曼多维尔高中毕业（克服孕期羞辱完成学业）；未读大学，通过自学考取威斯康星州房地产经纪人执照。
+  initial_resources: 早期依靠在当地餐馆端盘子、做花花公子俱乐部女服务员维生，抚养年幼儿子。
+
+life_stage:
+  age_at_key_decision: 17 岁沦为单亲母亲独自抚养儿子；35 岁与伴侣联合创办 ABC Supply；60 岁遭遇丈夫意外坠亡与次贷金融海啸双重危机；独掌大局并带领企业规模翻倍。
+  relationship_status_if_relevant: 经历早年未婚生子、第一段简短婚姻离异；后与屋顶承包商肯·亨德里克斯 (Ken Hendricks) 结为灵魂伴侣与商业合伙人（2007年肯意外去世）。
+  children_if_publicly_documented: 育有 7 名子女（包含收养与重组家庭子女）。
+  caregiving_responsibility_if_relevant: 青年时期独自承受单亲抚育重压，后期与伴侣共同抚养多名子女，将家族文化与企业运营深度融合。
+
+constraints:
+  financial: 早期极度匮乏，依靠借贷 100% 杠杆收购最初的三家破旧建材仓库。
+  family: 17 岁未婚生子遭受保守小镇社会的严厉道德谴责与孤立。
+  reproductive: 青年时期完成密集生育抚育，后期将全部精力投入商业与地产控股。
+  social: 建材与屋顶建筑承包是全美男性主导比例最严苛、最粗粝的蓝领重工业赛道。
+  gender: 在与全男性承包商打交道时，早期常被误认为是秘书或助理，面临严重的专业能力质疑。
+  career: 缺乏正规商学院与工科学位，依靠房地产一线销售自学生存技能。
+  age: 60 岁遭遇人生最大危机（丧偶 + 次贷危机），在大多数人选择退休的年龄选择绝地反攻。
+  geography: 从威斯康星州小镇贝洛伊特起步，深耕美国中西部铁锈地带。
+  immigration: 本土公民。
+  capital_access: 1982 年起步时依靠向银行提供全部个人房产抵押获得第一笔关键贷款。
+
+career:
+  previous_work: 花花公子俱乐部女服务员、定制住宅房地产销售经纪人。
+  transition: 在销售定制住宅时结识屋顶承包商 Ken，发现建材批发供应链极其分散混乱，决定颠覆行业。
+  business_model: 全美一站式屋顶与外墙建材批发分销网络 + 专有物流车队 + 重度绑定中小承包商。
+  source_of_capital: 银行抵押贷款自筹启动 + 经营留存收益全额滚动再投资 + 危机期逆向收购。
+  ownership: 丈夫去世后，100% 绝对独资拥有 ABC Supply 与 Hendricks Holding Company。
+  revenue_model: B2B 重资产建材批发与供应链服务，年销售额突破 200 亿美元。
+
+key_decisions:
+  - decision: 丈夫意外坠亡后拒绝以数十亿美元出售公司，坚持独资掌控
+    context: 2007 年底伴侣兼商业支柱 Ken 在检查施工现场时不慎坠楼身亡；数月后 2008 年全美次贷危机爆发，新房开工率暴跌超 60%，银行与投资机构纷纷登门劝其低价抛售套现离场。
+    alternatives: 接受华尔街 PE 财团的折价收购，套现数十亿美元安享晚年。
+    risk: 建材需求断崖式下跌，银行可能随时抽贷，个人可能因连带担保倾家荡产。
+    reason: 坚信两人毕生心血的价值被严重低估，且坚信中西部蓝领承包商的刚需不会消亡；决不向资本投降。
+    outcome: 亲自出任董事长兼实际操盘手，在 60 岁高龄全面接管运营，铁血裁撤 40 家亏损网点，保住企业流动性，成功挺过全美大萧条。
+  - decision: 危机后逆周期鲸吞最大竞争对手 Bradco Supply 与 L&W Supply
+    context: 2010 年同行 Bradco 因金融危机濒临破产；2016 年 USG 旗下建筑材料分销商 L&W Supply 寻求出售。
+    alternatives: 保持现状，继续持有充裕现金防守。
+    risk: 大额并购导致资产负债率急剧攀升，一旦经济二次探底将面临灭顶之灾。
+    reason: 在行业最寒冷的谷底进行并购，能以极低估值获得全国现成的仓储网络与卡车车队。
+    outcome: 以数十亿美元成功完成两次史诗级逆周期并购，将 ABC Supply 的门店数量与营收规模直接推升至全美第一，市场份额超第二名数倍。
+
+failures:
+  - failure: 早期投资部分非核心小型制造企业陷入长期亏损
+    cause: 在多元化控股过程中，过度分散精力投资了自己不熟悉的轻工制造项目。
+    response: 及时设立严格的资本回报率 (ROIC) 准则，果断出售并剥离全部不达标业务，将资金集中回流到建材分销核心主业与优质工业物流地产。
+    consequence: 承受了数千万美元试错损失，但避免了更广泛的资本陷阱，形成了清晰的控股治理模型。
+
+turning_points:
+  - event: 1982 年在威斯康星州贝洛伊特收购最初的 3 家建筑材料仓库。
+    decision: 顶着 15% 的高通胀利率借款买下破产仓库，确立以“服务独立屋顶工人”为核心的服务标准。
+    result: 成立 ABC Supply，第一年即实现盈利，开启了随后 40 年连续称霸全美的工业传奇。
+
+relationships_and_power:
+  mentors: 父母（农场劳动伦理教育）。
+  partners: 肯·亨德里克斯 (Ken Hendricks，已故伴侣与联合创始人)。
+  networks: 全美建筑材料承包商协会、威斯康星州政商领导圈、共和党核心商业智囊委员会。
+  investors: 无外部股权投资人（100% 家族独资私有化）。
+  institutions: 贝洛伊特市政府（长期主导贝洛伊特老工业基地旧城改造与再就业工程）。
+
+wealth:
+  starting_point: 零，青年时期依靠时薪小费度日。
+  wealth_creation_mechanism: 掌控全美最大重资产建材分销网络 + 拥有全国数百处仓储重度工业不动产 + 100% 独资绝对股权。
+  capital_strategy: 坚持全资私有化运营，不上市、不被华尔街季度财报绑架，将丰沛的经营现金流源源不断沉淀为无可穿透的永久性土地与实业帝国（净资产超 150 亿美元）。
+
+decision_patterns:
+  - pattern: "逆周期资产猎手：在全行业恐慌、资本逃离的最黑暗谷底，保持极度克制的资产负债表，果断以折价吞并竞争对手。"
+  - pattern: "单身母亲的反脆弱：将早年单亲抚育生存绝境中练就的野兽般生存直觉，转化为商业危机中毫无恐惧的决策定力。"
+
+anti_patterns:
+  - pattern: "在危机时刻轻易交出底牌：因恐惧而在资产估值最底部顺从金融资本的劝说低价割肉离场。"
+
+transferability:
+  highly_transferable:
+    - "在行业萧条期果断削减低效亏损业务，严守现金流底线。"
+    - "逆周期并购思维：在对手撑不下去的寒冬期以低估值锁定优质资产。"
+    - "坚守业务核心护城河，避免盲目涉足自己无法理解的金融投机。"
+  context_dependent:
+    - "1980–2000 年代美国房地产业和独栋住宅维修换顶的庞大刚需周期。"
+    - "美国中西部铁锈地带极低成本工业土地的收购与重整历史窗口。"
+  not_transferable:
+    - "个人在 60 岁高龄面对丧偶巨痛依然能够压制一切悲伤、瞬间统帅数百家全国分支机构的罕见精神意志力。"
+
+evidence:
+  sources:
+    - "Forbes: America’s Richest Self-Made Women List (Rank #1, 2018-2024)"
+    - "ABC Supply Co. Inc. Official Company Milestones and Archives"
+    - "The Wall Street Journal Profile: How Diane Hendricks Built an Empire in Building Supplies"
+  evidence_level: "documented fact (企业官方公开档案、福布斯连续数年经严格审计的财富披露、华尔街日报深度调查)"

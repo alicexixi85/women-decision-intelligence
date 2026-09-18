@@ -1,0 +1,100 @@
+identity:
+  name: 李飞飞 (Fei-Fei Li)
+  nationality: 美国 (USA) / 美籍华裔
+  era: 现代 (1976年出生，2007年启动 ImageNet，2024年创办 World Labs)
+  industry: 人工智能 / 硬核科技 / 计算机视觉 / 高等教育 (AI / Computer Science)
+  role: 斯坦福大学红杉讲席教授、斯坦福以人为本人工智能研究院 (HAI) 联席院长、World Labs 创始人兼 CEO、美国国家工程院与科学院双院士
+
+background:
+  childhood: 出生于四川成都，在普通知识分子家庭成长，自幼对自然科学充满好奇心。
+  family: 16 岁随父母移民美国新泽西州帕西帕尼，父亲曾是工程师但因语言障碍只能做相机维修工，母亲在超市做收银员。
+  socioeconomic_background: 第一代赤贫新移民阶层，初期依靠微薄体力劳动时薪在异国勉强维生。
+  education: 普林斯顿大学 (Princeton University) 物理学学士（高额奖学金）；加州理工学院 (Caltech) 电气工程与计算神经科学博士。
+  initial_resources: 零初始资本，在高中与大学期间一边保持全A学业，一边在清洁店、中餐馆打黑工补贴家用。
+
+life_stage:
+  age_at_key_decision: 23 岁向亲友借款 2 万美元为父母盘下干洗店并利用周末收银；31 岁冒着学术终身教职（Tenure）可能泡汤的巨大风险孤注一掷打造 ImageNet；47 岁跨界创立空间智能 AI 公司 World Labs。
+  relationship_status_if_relevant: 与意大利裔神经科学家兼斯坦福大学教授 Silvio Savarese 结婚，学术与生活高度协同。
+  children_if_publicly_documented: 育有一子一女，在获得学术终身教职并建立稳定研究团队后进入育儿期。
+  caregiving_responsibility_if_relevant: 长期承担照顾患有重度心血管疾病母亲与语言不通父亲的家庭重担，研究生期间每周五晚上往返于加州理工实验室与新泽西干洗店。
+
+constraints:
+  financial: 早期家庭财务极其脆弱，一旦学术资助中断全家将陷入生存危机。
+  family: 父母语言不通且健康欠佳，照护与翻译责任全部落在独生女肩头。
+  reproductive: 在 30s 冲刺学术终身教职与巨额科研项目期间，高强度协调孕产与实验室管理。
+  social: 传统计算机视觉界被欧美白人男性主导，推崇精巧算法与数学模型推导，极度轻视海量数据标注。
+  gender: 在顶级工程学院博士与学术会议中，女性比例长期不足 10%，被先入为主地怀疑是否具备硬核底层编码能力。
+  career: 打造 ImageNet 早期遭遇美国国家科学基金会 (NSF) 两次直接驳回科研资助申请，被同行斥为“浪费科研生命的小打小闹”。
+  age: 30 岁前后完成学术关键跃迁，40s 走向商业与产学研最高峰。
+  geography: 从中国成都跨越太平洋到美国新泽西，后迁往加州硅谷。
+  immigration: 经历漫长的新移民绿卡与公民归化流程，深刻体验底层制度边缘感。
+  capital_access: 早期学术科研基金受限，后期凭借无可置疑的学术权威获得顶尖风投数十亿美元估值追捧。
+
+career:
+  previous_work: 干洗店出纳、中餐馆收银员、普林斯顿本科助研、伊利诺伊大学厄巴纳-香槟分校 (UIUC) 助理教授。
+  transition: 从纯物理学转向认知计算与人工智能；从高校学术象牙塔走向工业界（担任 Google Cloud AI 首席科学家），再到自主创立前沿 AI 独角兽 (World Labs)。
+  business_model: 前沿基础模型科研生态 + 空间智能大型三维大模型商业化 + 产学研深度赋能。
+  source_of_capital: 学术界科研基金（后获 ONR 资助）+ 亚马逊 AWS 早期云计算支持 + 硅谷顶级 VC (Andreessen Horowitz, Radical Ventures, NEA)。
+  ownership: World Labs 联合创始人兼控股 CEO。
+  revenue_model: 企业级 AI 空间生成模型 API 订阅、大型数字资产合成软件许可与战略伙伴授权。
+
+key_decisions:
+  - decision: 放弃优化精巧算法，逆向死磕“海量真实世界数据集”ImageNet
+    context: 2006–2007 年全球学界普遍认为计算机视觉的瓶颈在于“没有写出更好的算法优化公式”，对已有几百张图片的玩具数据集进行微调。
+    alternatives: 顺应学术主流写容易发表论文的小算法，稳妥拿到助理教授的终身教职 (Tenure)。
+    risk: 耗费数年一无所获无法发表高引论文，直接导致学术生涯断送被大学解聘。
+    reason: 认识到人类婴儿是通过观察数亿个视网膜输入来认识世界，算法再好若没有海量多样化数据作为真实基石，全都是纸上谈兵。
+    outcome: 动用数万亚马逊 Mechanical Turk 众包工人标注了 1400 万张高精度图片，建立了 ImageNet；2012 年基于该数据集诞生的 AlexNet 引爆了现代深度学习海啸，彻底改变人类技术史。
+  - decision: 创办 AI4ALL 推动女性与多元族裔进入核心 AI 权力圈
+    context: 伴随现代 AI 爆发，硅谷核心算法开发者被单一白人与男性极客群体垄断，技术偏见加剧。
+    alternatives: 专注于个人学术晋升与高额咨询商业变现，不沾染社会公益与争议议题。
+    risk: 被部分保守极客批评“政治化科研”、分散精力。
+    reason: 坚信若不从根源改变技术创造者的性别与阶层构成，未来统治全球的算法将充满对女性与少数族裔的结构性压迫。
+    outcome: 联合梅琳达·盖茨与英伟达等巨头设立面向全球女高中生的免费 AI 夏令营，为全球顶尖科技公司输送了数千名女性技术骨干。
+
+failures:
+  - failure: 早期试图在普林斯顿雇佣本科生手工标注图片遭遇资金与进度死胡同
+    cause: 严重低估了 1400 万张图片的标注工程量，普林斯顿本科生每小时 10 美元薪酬导致预算在数周内彻底穿底。
+    response: 绝不放弃，在偶然与一名学生聊天中发现当时刚上线的 Amazon Mechanical Turk 众包平台，果断将标注流程完全模块化线上众包。
+    consequence: 将单张图片标注成本降低 90%，并在 2 年内以不可思议的速度奇迹般完成了全球最大的标注工程。
+
+turning_points:
+  - event: 2012 年 ImageNet 大赛上 Geoffrey Hinton 与 Alex Krizhevsky 的 AlexNet 夺冠。
+    decision: 坚持举办年度 ImageNet 挑战赛并向全球学术界免费开源全部测试数据。
+    result: 深度学习瞬间从边缘异端变为全球人工智能唯一绝对正统，李飞飞被公推为“现代 AI 奠基人之一”。
+
+relationships_and_power:
+  mentors: 普林斯顿大学物理教授；Pietro Perona (加州理工博士导师)；Christof Koch (脑神经科学家)。
+  partners: Silvio Savarese (伴侣兼长期学术合伙人)；Jia Deng (邓嘉，ImageNet 早期学生与核心共创者)。
+  networks: 斯坦福大学工学院、美国白宫科技政策办公室科学顾问、全球华人科技精英学者圈。
+  investors: Marc Andreessen (a16z), Radical Ventures, Ashton Kutcher (Sound Ventures).
+  institutions: 斯坦福大学、普林斯顿大学、加州理工学院、Google。
+
+wealth:
+  starting_point: 赤贫移民家庭，早年负债盘下干洗店。
+  wealth_creation_mechanism: 顶级大学终身教席 + 硅谷巨头顶薪副总裁 + 前沿 AI 初创公司控股创始人（World Labs 估值超 10 亿美元）。
+  capital_strategy: 以不可替代的基础科学认知作为杠杆，在技术革命最核心的风口将知识转化为全球顶级风险资本直接支持的独角兽股权。
+
+decision_patterns:
+  - pattern: "第一性原理反脆弱：当全行业都在追逐表层泡沫时，回归物理学本源，死磕最具决定性却无人愿干的底层基础设施（如数据）。"
+  - pattern: "家庭与学术的模块化切割：在高强度育儿与高管科研中建立绝对的作息边界，以极高的专注密度替代低效的时长消耗。"
+
+anti_patterns:
+  - pattern: "盲目顺应主流学术评价考核而放弃颠覆性大方向，沦为批量制造垃圾论文的平庸学者。"
+
+transferability:
+  highly_transferable:
+    - "在没有外部经费支持时，寻找极低成本的数字化替代工具（如利用众包突破资源限制）。"
+    - "第一代低资源家庭背景下，通过极高的学习专注度与家庭责任感实现逆境突围。"
+    - "坚持核心资产的开源与共享，以生态制定者的地位换取整个行业的崇高信任。"
+  context_dependent:
+    - "2010–2020 年全球算力（GPU）爆发与深度学习算法突破的超级黄金科技大周期。"
+  not_transferable:
+    - "普林斯顿与加州理工顶尖物理数学跨学科科研天赋与顶级学术战略嗅觉。"
+
+evidence:
+  sources:
+    - "李飞飞个人亲笔自传《The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI》(2023)"
+    - "Stanford University Faculty Profile & Official Announcements"
+    - "Wired Profile: The Mother of Artificial Intelligence"
+  evidence_level: "documented fact (公开学术著作、个人自传、美国国家工程院官方档案)"

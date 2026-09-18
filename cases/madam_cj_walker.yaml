@@ -1,0 +1,100 @@
+identity:
+  name: Madam C. J. Walker (莎拉·布里德洛夫 / 沃克夫人 / Sarah Breedlove)
+  nationality: 美国 (USA)
+  era: 历史近代 (1867年出生，1905年38岁创业，1919年逝世)
+  industry: 美发护肤 / 日化消费品 / 连锁培训 (Beauty & Hair Care)
+  role: 沃克制造公司创始人、吉尼斯官方认证的全美首位白手起家女百万富豪、民权社会活动家
+
+background:
+  childhood: 出生于路易斯安那州棉花种植园，父母曾为奴隶，她是林肯发表《解放黑人奴隶宣言》后家族第一个自由出生的孩子。7 岁时父母双亡沦为孤儿。
+  family: 寄居在姐姐和极其暴虐的姐夫家中，饱受虐待与繁重农活奴役。
+  socioeconomic_background: 极度贫困的种植园奴役后代底层，生活在种族隔离与白人至上主义的深渊中。
+  education: 仅受过 3 个月的非正式主日学校基础扫盲教育，近乎文盲，依靠成年后自学读写。
+  initial_resources: 零资产，14 岁为逃脱虐待被迫早婚；20 岁丧偶，孤身带着 2 岁的女儿阿莱莉亚 (A'Lelia) 逃往圣路易斯。
+
+life_stage:
+  age_at_key_decision: 20 岁丧偶沦为单亲母亲，靠做洗衣妇苦熬 17 年；38 岁患上严重头皮病导致脱发，以此为契机研制生发霜开启创业；43 岁建立全国性制造与培训帝国。
+  relationship_status_if_relevant: 第一任丈夫去世；第二任婚姻因家暴解体；后与报纸广告人 Charles Joseph Walker 结婚（冠名沃克夫人）并在此后因商业主导权分歧和平离婚。
+  children_if_publicly_documented: 独女阿莱莉亚·沃克 (A'Lelia Walker)，后来成为哈莱姆文艺复兴的核心文化赞助人。
+  caregiving_responsibility_if_relevant: 青年时期独自承受极重体力劳动（每日洗衣熨烫），誓死要挣足学费让女儿接受正规高等教育，家庭生存是其全部斗志来源。
+
+constraints:
+  financial: 当洗衣妇每周仅能挣得 1.5 美元微薄微薪，生活处于饥饿边缘。
+  family: 孤身抚育幼女，无任何娘家与宗族后盾。
+  reproductive: 青年时期完成生育，中年将母女同心转化为家族商业继承链条。
+  social: 经历美国历史上种族压迫最严酷的“吉姆·克劳法案 (Jim Crow laws)”时代，三K党暴力肆虐。
+  gender: 黑人女性处于整个社会阶层结构的最底层（既受种族隔离又受性别从属），商业银行对黑人女性彻底关闭大门。
+  career: 传统工商业、零售百货完全拒绝为非裔女性提供货架与职位。
+  age: 38 岁才真正启动商业冒险。
+  geography: 从路易斯安那棉田到圣路易斯、丹佛、匹兹堡，最终在印第安纳波利斯建立全国制造基地并在纽约哈莱姆设立豪宅。
+  immigration: 本土公民（但长期被剥夺公民权）。
+  capital_access: 无法获得任何传统信贷支持，全凭洗衣积攒的 1.25 美元原料本金起步。
+
+career:
+  previous_work: 棉花采摘农工、家庭重度洗衣女工 (17年)。
+  transition: 因长期接触强碱肥皂与恶劣卫生条件导致严重头皮感染与斑秃脱发，在兄弟理发师启发下研制硫磺与植物生发油，治愈自身后发现巨大的群体刚需。
+  business_model: 创新生发产品 + 门对门直销代理网络 (The Walker System) + 全国美容培训学校与沙龙连锁。
+  source_of_capital: 100% 依靠自制产品沿街叫卖所得现金流自筹滚存。
+  ownership: 100% 绝对控股沃克制造公司 (The Madam C. J. Walker Manufacturing Company)。
+  revenue_model: 美容产品批发、加盟培训学费、全国沙龙特许经营分成。
+
+key_decisions:
+  - decision: 放弃做普通理发女工，自立门户建立全女性直销代理培训体系
+    context: 早期曾为另一位黑人女企业家安妮·马隆 (Annie Malone) 担任销售代理，但发现对方限制代理商的自主发展。
+    alternatives: 继续留在马隆公司做高级分销业务员；在当地开一家普通理发小作坊。
+    risk: 被前雇主指责侵权抄袭，面临行业声誉打压与恶性竞争。
+    reason: 坚信必须拥有属于自己的品牌配方与商业主导权，且唯有将其他黑人女性武装为独立代理商，才能实现规模裂变。
+    outcome: 开创“沃克系统 (Walker System)”，在丹佛创办沃克美发学校，培训了超过 20,000 名被称为“沃克代理人 (Walker Agents)”的独立女性销售大军。
+  - decision: 设立全国代理人协会与年度年会，将女性经济赋权与社会地位深度绑定
+    context: 1917 年在费城举办首届全美沃克代理人大会，当时美国罕见有女性召开全国性商业会议。
+    alternatives: 仅通过传统报纸邮购赚取被动批发差价。
+    risk: 承担高昂的差旅组织成本，可能引发白人种族主义者的警惕与暴力破坏。
+    reason: 认识到黑人女性极其渴望被尊重、被认可；大会不仅奖励销售冠军，更重奖为慈善和反私刑运动捐款最多的女性。
+    outcome: 建立起高度忠诚、几乎坚不可摧的全国性女性商业网络，不仅让数万名原本只能做洗碗工的底层女性过上了有尊严的中产生活，更确立了沃克夫人不可动摇的商业霸权。
+
+failures:
+  - failure: 丈夫 Charles Walker 试图夺取公司控制权并反对公司跨州扩张
+    cause: 丈夫具有传统大男子主义思想，认为一个小型本地作坊即可满足生活，反对妻子全国性扩张野心，并与外部女性发生婚外情。
+    response: 绝不妥协商业主权，在看清分歧不可调和后，坚决诉诸法律正式离婚，仅支付少量财产补偿，守住了企业 100% 股权与商标。
+    consequence: 承受了短期感情打击，但彻底清除了企业内部权力分裂的定时炸弹。
+
+turning_points:
+  - event: 1910 年将总部和生产基地迁往全美交通枢纽印第安纳波利斯。
+    decision: 顶着当地保守势力的阻力，亲自买地兴建大型现代化工厂、实验室、研发中心与美发培训学院。
+    result: 彻底脱离了家庭作坊模式，日产量翻了数十倍，产品远销加勒比海与拉美地区。
+
+relationships_and_power:
+  mentors: 圣路易斯黑人浸信会女性互助网络与非裔全国妇女协会 (NACW)。
+  partners: 独女阿莱莉亚·沃克 (A'Lelia Walker)；长期忠诚的商业律师 F. B. Ransom。
+  networks: 全美有色人种协进会 (NAACP)、布克·T·华盛顿 (Booker T. Washington，早期曾轻视她，后被其商业成就震撼并邀请在全国黑人商业联盟演讲)。
+  investors: 无（全流程自筹）。
+  institutions: 纽约哈莱姆文艺复兴知识分子联盟、印第安纳波利斯联邦法庭。
+
+wealth:
+  starting_point: 绝对赤贫，日薪仅 1.5 美元。
+  wealth_creation_mechanism: 独家刚需配方产品 + 数万人规模的直销网络裂变 + 培训连锁生态垄断。
+  capital_strategy: 利润全额自筹再投资，将资本沉淀为纽约哈莱姆豪华联排别墅、庄园级私人不动产以及大额慈善捐赠基金。
+
+decision_patterns:
+  - pattern: "赋能她人即是赋能自己：不把底层女性视为单纯的廉价劳动力，而是将其培养为自负盈亏、拥有专业执照的商业合伙人，构建裂变飞轮。"
+  - pattern: "商业主权不容侵犯：面对伴侣对权力的觊觎与传统男权压制，宁可断舍离婚姻也绝不出让企业核心控制权。"
+
+anti_patterns:
+  - pattern: "为了迁就传统家庭和睦而对商业野心做自我阉割，最终导致控制权被蚕食。"
+
+transferability:
+  highly_transferable:
+    - "将自身曾遭遇的生理/病理创伤（脱发）研发为针对同类人群的标准化解决方案。"
+    - "搭建去中心化的女性分销与赋能网络，提供配套技能培训。"
+    - "面对伴侣对公司权力的掣肘与背叛时，果断通过法律手段切割。"
+  context_dependent:
+    - "19 世纪末 20 世纪初美国黑人女性群体被传统日化巨头彻底遗忘的历史市场空白。"
+  not_transferable:
+    - "在极端残酷的种族隔离制度下，凭借血肉之躯在三K党威胁中徒步穿越各州建立网络的历史悲壮特质。"
+
+evidence:
+  sources:
+    - "A'Lelia Bundles (沃克夫人曾外孙女兼权威传记作家): On Her Own Ground: The Life and Times of Madam C. J. Walker"
+    - "Guinness World Records: First Self-Made Millionairess"
+    - "National Museum of African American History and Culture (NMAAHC) Official Archives"
+  evidence_level: "documented fact (美国历史国家档案馆、吉尼斯世界纪录确证、传记与公司原始账簿档案)"

@@ -1,0 +1,100 @@
+identity:
+  name: 苏姿丰 (Lisa Su)
+  nationality: 美国 (USA) / 美籍华裔
+  era: 现代 (1969年出生，2014年45岁出任 AMD 首席执行官)
+  industry: 半导体 / 硬核微电子 / 高性能计算 (Semiconductors / Hardware)
+  role: 超威半导体 (AMD) 董事长兼首席执行官、全球半导体芯片女王
+
+background:
+  childhood: 出生于中国台湾台南，3 岁随父母移民美国纽约，父亲为统计学家，母亲为会计师（后自主创业从事进出口商业）。从小喜爱拆卸各种电器玩具。
+  family: 重视学术严谨性与逻辑推导的华人家庭，父母鼓励其追求最硬核的工程技术。
+  socioeconomic_background: 典型技术中产移民阶层。
+  education: 麻省理工学院 (MIT) 电气工程学士、硕士与博士学位（25岁获得博士，专注于绝缘硅技术 SOI）。
+  initial_resources: 顶尖微电子芯片底层技术积累，曾主导 IBM 铜互连线芯片专利与索尼 PS3 Cell 处理器联合研发。
+
+life_stage:
+  age_at_key_decision: 45 岁在 AMD 濒临破产的极度深渊时刻接手出任 CEO（典型的“玻璃悬崖”情境）；53 岁主导 490 亿美元全股票收购赛灵思 (Xilinx)；54 岁实现 AMD 市值历史性反超英特尔。
+  relationship_status_if_relevant: 与同为工程师的华人丈夫 Daniel Lin 维持长期低调稳定的婚姻，公私领域界限分明。
+  children_if_publicly_documented: 无公开记录子女，将个人精力最大化聚焦于全球半导体巨头的技术博弈与战略执行。
+  caregiving_responsibility_if_relevant: 无密集型育儿中断负担，拥有完整掌控的工作作息与高强度跨国差旅能力。
+
+constraints:
+  financial: 2014 年接手 AMD 时，公司背负超 20 亿美元沉重债务，账面现金枯竭，连续多个季度巨额亏损，被华尔街多家投行定性为“破产概率超 80%”。
+  family: 亲人提供精神支持，但面对全球芯片世纪大战，家族无法提供任何商业援手。
+  reproductive: 关键任职时期已过生育窗口。
+  social: 全球半导体与硬件产业是男性主导比例最极端的重工业领域，高管团队与董事会几乎清一色为欧美白人资深男性。
+  gender: 在接任 CEO 时遭遇媒体广泛质疑其为“过渡型牺牲品”，怀疑女性工程专家是否具备大刀阔斧削减业务的铁血手腕。
+  career: 接手的是全行业无人敢碰的烂摊子，一旦重组失败，个人的技术声誉将被彻底埋葬。
+  age: 45 岁临危受命，处于职业生涯最关键的成败一役。
+  geography: 从纽约、德州奥斯汀到硅谷圣克拉拉。
+  immigration: 本土公民身份。
+  capital_access: 华尔街投行早期拒绝向 AMD 提供低息债务展期，债券被评级为垃圾级。
+
+career:
+  previous_work: 德州仪器 (TI) 技术员；IBM 半导体研发中心副总裁 (13年)；飞思卡尔半导体 (Freescale) 高级副总裁兼总经理。
+  transition: 2012 年加入 AMD 担任全球业务高级副总裁，2014 年董事会罢免原 CEO 后火线被推上最高领导岗位。
+  business_model: 无晶圆厂纯芯片设计 (Fabless) + 高性能微处理器 (CPU) 与图形加速卡 (GPU) + 数据中心企业级方案。
+  source_of_capital: 严缩营运资本 + 游戏机定制芯片稳定现金流抵押 + 资本市场长期重组债券与全股票并购。
+  ownership: 作为职业经理人获得丰厚业绩对赌期权与限制性股票（多年蝉联标普 500 最高薪酬 CEO 之一）。
+  revenue_model: 高毛利企业级服务器芯片 (EPYC) + 消费级处理器 (Ryzen) + 游戏主机特种定制芯片 (PS5/Xbox)。
+
+key_decisions:
+  - decision: 铁腕砍掉全部边缘低毛利业务，全公司压注 Zen 架构高性能计算
+    context: 2014 年公司资源极度分散，为了生存做廉价平板芯片、物联网微控制器，处处挨打。
+    alternatives: 继续在低端市场打价格战苟延残喘；分拆并出售部分 GPU 资产变现还债。
+    risk: 押注的高端芯片研发周期长达 4–5 年，一旦架构流片失败，公司将瞬间进入清算程序。
+    reason: 认识到半导体的生存之道在于“性能巅峰与单芯片毛利”，低端混战只会失血致死。
+    outcome: 制定“5年三代 Zen 架构”绝密路线图，以惊人的守约率连续按期交付，Zen 架构性能提升 52%，彻底打破英特尔“牙膏厂”垄断。
+  - decision: 强硬修改与格芯 (GlobalFoundries) 的独家代工长协，全力拥抱台积电先进工艺
+    context: AMD 历史包袱沉重，受制于早期分拆格芯时的晶圆供应长协 (WSA)，被强制使用格芯落后制程，技术被台积电阵营死死压制。
+    alternatives: 顺从合约继续使用格芯，省去巨额赔偿金。
+    risk: 赔偿数亿美元解约金可能直接击穿当时脆弱的现金流；遭到格芯法律诉讼。
+    reason: 没有台积电的 7nm/5nm 先进工艺支持，再优秀的 Zen 架构也无法在功耗比上击败对手。
+    outcome: 支付严密计算的数亿美元和解金，成功解绑，全面转向台积电代工，在 7nm 时代实现对英特尔的制程全面反超。
+
+failures:
+  - failure: 早期 Vega 架构 GPU 在与英伟达高端对抗中能效比不及预期
+    cause: 高估了 HBM 显存的供应链良率，架构过于复杂导致发热量巨大，在消费级独立显卡市场一度被英伟达碾压。
+    response: 绝不粉饰太平，承认差距，将 GPU 研发重点迅速转向数据中心计算卡（CDNA 架构），避开纯消费端陷入的算力陷阱。
+    consequence: 最终在 AI 算力潮中成功打出 MI300X 系列与英伟达 H100 正面竞争，拿下微软、Meta 等巨额算力订单。
+
+turning_points:
+  - event: 2017 年正式发布第一代 Ryzen (锐龙) 桌面处理器与 EPYC (霄龙) 服务器处理器。
+    decision: 坚持用“小芯片胶水封装 (Chiplet)”技术大幅降低生产良率成本，以英特尔一半的价格提供超越其性能的核数。
+    result: 震惊全球硬件极客圈，市场份额势如破竹，AMD 股价彻底启动十年百倍超级长牛。
+
+relationships_and_power:
+  mentors: 麻省理工博士导师；老牌半导体科学家群体。
+  partners: 马克·佩珀马斯特 (Mark Papermaster，AMD 首席技术官兼工程架构灵魂搭档)。
+  networks: 台积电高层（与张忠谋、魏哲家建立深厚互信）、微软萨提亚·纳德拉、索尼互动娱乐高管。
+  investors: 全球机构投资者、新加坡主权基金淡马锡。
+  institutions: 麻省理工学院校董会、美国半导体行业协会 (SIA) 主席。
+
+wealth:
+  starting_point: 普通工程高薪，无原始企业资本。
+  wealth_creation_mechanism: 深度绑定濒危企业业绩反转的巨额股权激励 (Stock Options) + 市值从 20 亿跨越至超 2500 亿美元的数十倍资本溢价。
+  capital_strategy: 用无可争议的业绩战功换取股东全票支持的股票期权，将个人身价与公司长期基本面牢牢锁死。
+
+decision_patterns:
+  - pattern: "玻璃悬崖绝地反击：在无人敢碰的深渊中接管权力，以极度清醒的断舍离与硬核履约兑现建立不可替代的权威。"
+  - pattern: "单点性能击穿：在资源处于 1:10 绝对劣势时，绝不搞全面战争，把所有子弹打在对手最致命的薄弱环节（架构与先进制程）。"
+
+anti_patterns:
+  - pattern: "低毛利伪需求陷阱：为了粉饰短期营收数字而承接大量毛利低下、消耗核心研发精力的边缘业务。"
+
+transferability:
+  highly_transferable:
+    - "战略断舍离：在业务危机时果断关停消耗现金流的非核心项目，聚焦单一护城河。"
+    - "建立言出必行（Execution & Predictability）的工程守约文化，消解一切针对性别的偏见质疑。"
+    - "以小博大时采用模块化解耦技术（如 Chiplet 思想在管理与业务中的映射）。"
+  context_dependent:
+    - "台积电纯晶圆代工商业模式成熟成熟，让无晶圆设计公司能够对抗 IDM 巨头（英特尔）的历史性产业分工裂变红利。"
+  not_transferable:
+    - "MIT 顶级微电子技术博士功底与主导全球数十亿美元级硬核半导体流片的极少数顶尖操盘天赋。"
+
+evidence:
+  sources:
+    - "AMD 历年 Form 10-K 年度报告与 SEC 法定文件 (NASDAQ: AMD)"
+    - "Fortune Cover Story: How Lisa Su Engineered the Greatest Turnaround in Silicon Valley"
+    - "Harvard Business School Case Study: AMD: Reshaping High-Performance Computing"
+  evidence_level: "documented fact (纳斯达克确证财报、SEC高管薪酬披露、商学院严谨案例)"

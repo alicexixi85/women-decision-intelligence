@@ -1,0 +1,101 @@
+identity:
+  name: Sara Blakely (萨拉·布雷克利)
+  nationality: 美国 (USA)
+  era: 现代 (1971年出生，1998年启动创业)
+  industry: 消费品 / 服饰时尚 (Apparel / Undergarments)
+  role: Spanx 创始人、独资控股企业家、亿万富翁
+
+background:
+  childhood: 出生于佛罗里达州克利尔沃特，父亲为审判出庭律师，母亲为艺术家。成长过程中父亲经常在餐桌上询问“你今天有什么失败的尝试？”，培养了对挫折的脱敏认知。
+  family: 普通中产家庭，父母在其大学期间离异。
+  socioeconomic_background: 美国工薪中产阶层，成年后无任何家族财务信托或资本支持。
+  education: 佛罗里达州立大学 (Florida State University) 通识沟通学士学位 (BA in Communications)；两次 LSAT 法学院入学考试均未通过，放弃律师职业梦想。
+  initial_resources: 银行账户仅有 5000 美元个人储蓄；无服饰设计、面料工程、零售批发背景，无时尚界人脉。
+
+life_stage:
+  age_at_key_decision: 27岁有产品构想，29岁正式成立 Spanx。
+  relationship_status_if_relevant: 创业启动阶段单身；37岁与前对冲基金经理 Jesse Itzler 结婚。
+  children_if_publicly_documented: 创业成熟且身价过亿后，在 38–45 岁期间先后生育 4 名子女。
+  caregiving_responsibility_if_relevant: 20s–30s 早期无子女照护负担，全部精力与时间投注于商业；40s 期间依托丰厚资本聘请专业团队协同育儿。
+
+constraints:
+  financial: 仅 5000 美元本金，无多余闲钱试错，无法支付上万美元的专利律师费。
+  family: 父母离异各居他处，虽提供精神支持，但无资金与行业人脉兜底。
+  reproductive: 20s–30s 早期主动将婚育时间线延后，避开创业初期的资源挤压。
+  social: 传统时尚界高度被男性高管与老牌百货买手把控，对功能性塑形内衣认知迟钝。
+  gender: 北卡罗来纳州全男性针织代工厂主普遍对她的设计嗤之以鼻，认为无市场价值。
+  career: 全职从事办公复印机上门冷门推销长达 7 年，身心疲惫但练就极强心理韧性。
+  age: 27–29岁起步，处于女性职场转折期。
+  geography: 从佐治亚州亚特兰大公寓起步，远离纽约时尚中心。
+  immigration: 本土公民，无移民身份束缚。
+  capital_access: 早期完全被风投忽视（由于商业计划书是针对内衣女性内生需求），后续主动彻底拒绝任何 VC 融资。
+
+career:
+  previous_work: 迪斯尼世界短暂停留（负责带游客上游乐设施）；丹卡办公设备公司 (Danka) 门对门推销传真机 7 年。
+  transition: 在推销传真机过程中剪断传统裤袜脚部以穿白色裤子，敏锐捕捉到“无痕舒适塑形”刚需，历时 2 年兼职自研。
+  business_model: D2C + 高端百货精品批发 (Neiman Marcus, Saks Fifth Avenue) + 电视购物 (QVC)。
+  source_of_capital: 100% 个人储蓄 5000 美元自筹启动，留存收益滚动发展。
+  ownership: 创业前 20 余年保持 100% 个人绝对控股；2021 年以 12 亿美元估值向 Blackstone 出售多数股权。
+  revenue_model: 高毛利物理商品零售，毛利率超 75%。
+
+key_decisions:
+  - decision: 绝不辞职，兼职打磨产品与自撰专利
+    context: 启动资金仅 5000 美元，一旦裸辞将失去租金来源与社保。
+    alternatives: 辞职全职贷款创业；寻找风投合伙人入局。
+    risk: 精力极度透支，推销本职工作面临被开除风险。
+    reason: 保留稳定现金流安全网，不因缺钱而在股权与定价上对外界妥协。
+    outcome: 自学佐治亚理工图书馆专利法书籍省下专利律师费，兼职 2 年成功拿下无痕塑形连裤袜专利。
+  - decision: 坚决拒绝外部风险投资 (VC)
+    context: 早期多家机构与投资人因看不懂女性内衣需求给出苛刻且压制估值的条款。
+    alternatives: 稀释 30%–50% 股权换取千万级风险投资迅速买量扩张。
+    risk: 发展速度受制于自身利润留存，无法进行野蛮狂飙。
+    reason: 坚信正向现金流能够支持有机增长，拒绝交出董事会控制权与战略话语权。
+    outcome: 始终保持 100% 股权，不受董事会干涉，每分钱利润全额回流，最终成为全球最年轻的白手起家女亿万富豪。
+
+failures:
+  - failure: 遭遇数十家针织厂集体当面拒单
+    cause: 代工厂老板全为中年男性，无法理解女性内衣夹脚、勒痕等痛点。
+    response: 飞往北卡罗来纳州当面演示，最终说服一名工厂主（该工厂主征求了两位女儿的试穿意见后大加赞赏）。
+    consequence: 成功打通首批量产试水通道，单品得以正式落地。
+
+turning_points:
+  - event: 2000 年将样品寄给奥普拉·温弗瑞 (Oprah Winfrey)。
+    decision: 坚持不花巨资打硬广，而是将有限预算用于给名人寄送真实好用的样品。
+    result: 奥普拉在当年的“年度最爱之物 (Favorite Things)”节目中无偿盛赞 Spanx，订单瞬间暴增数万单。
+
+relationships_and_power:
+  mentors: 父亲（早期抗挫挫折教育）；理查德·布兰森 (Richard Branson，在《Rebel Billionaire》节目中给予指导与信任）。
+  partners: 早期坚持不设联合创始人，依靠聘请成熟职业经理人操盘。
+  networks: 女性社群口碑推荐机制与高端百货女性买手同盟。
+  investors: 无早期外部投资人。
+  institutions: Blackstone（2021年股权并购，保留全女性董事会）。
+
+wealth:
+  starting_point: 5000 美元个人存款。
+  wealth_creation_mechanism: 极高毛利快消品（>75% 毛利）+ 100% 股权留存 + 零借贷留存收益滚动。
+  capital_strategy: 零负债、现金流先行、终极股权大宗套现。
+
+decision_patterns:
+  - pattern: "双轨兼职启动法：在副业现金流达到主业 1.5 倍前绝不裸辞，以主业稳健现金流对冲创业不确定性。"
+  - pattern: "自主确权防线：亲自深入研发与专利底层，掌握核心资产的绝对排他性所有权。"
+
+anti_patterns:
+  - pattern: "盲目迎合男性主导的 VC 审美而贱卖早期股权，导致后续丧失企业战略控制权。"
+
+transferability:
+  highly_transferable:
+    - "兼职验证 MVP 商业模式，保留底线收入。"
+    - "依靠高毛利和正向现金流滚动，避免对外部资本的病态依赖。"
+    - "深入一线做地推和冷门销售，不把希望寄托在花哨的广告上。"
+  context_dependent:
+    - "获得超级电视名流（如奥普拉）的免费电视曝光红利（特定电视传媒黄金期）。"
+    - "2000年代初美国线下高端连锁百货的高集聚流量红利。"
+  not_transferable:
+    - "个人无与伦比的外向型魅力与电视购物现场极强即兴销售说服天赋。"
+
+evidence:
+  sources:
+    - "Forbes: America's Richest Self-Made Women Profiles (2012-2024)"
+    - "How I Built This with Guy Raz: Sara Blakely / Spanx Episode (NPR)"
+    - "Harvard Business Publishing: Spanx: The Power of Underwear Case Study"
+  evidence_level: "documented fact (企业财报、官方专访、商学院确证案例)"

@@ -1,0 +1,100 @@
+identity:
+  name: Cathie Wood (凯瑟琳·伍德 / 木头姐)
+  nationality: 美国 (USA)
+  era: 现代 (1955年出生，2014年58岁创办方舟投资 ARK Invest)
+  industry: 金融投资 / 资产管理 / 破坏性科技基金 (Investment / Asset Management)
+  role: 方舟投资 (ARK Invest) 创始人、CEO 兼首席投资官 (CIO)
+
+background:
+  childhood: 出生于洛杉矶，父母为爱尔兰第一代移民，父亲为雷达工程技术员，自幼被培养对前沿科技与严谨逻辑的兴趣。
+  family: 移民勤奋家庭，注重教育。
+  socioeconomic_background: 传统中产工薪移民阶层，无华尔街世袭人脉。
+  education: 南加州大学 (USC) 金融经济学学士（导师为供应学派经济学大师阿瑟·拉弗 Arthur Laffer）。
+  initial_resources: 华尔街 30 余年宏观研究员与资产管理老将资历，积累了丰厚的个人合法薪酬储蓄与对冲基金运营认知。
+
+life_stage:
+  age_at_key_decision: 58 岁在传统公募机构遭遇理念天花板，毅然砸出个人积蓄独立创办 ARK Invest；65 岁迎来事业与资产规模巅峰。
+  relationship_status_if_relevant: 离异（前夫已故），关键创业阶段处于独立单身生活状态。
+  children_if_publicly_documented: 育有 3 名成年子女。
+  caregiving_responsibility_if_relevant: 58 岁创业时子女已全员成年自立，彻底免除了密集型母职看护对精力的切割，时间主权处于人生顶峰。
+
+constraints:
+  financial: 早期长达近 3 年 ARK 没有任何外部大机构注资，全靠个人掏出数百万美元储蓄支付团队薪酬与高昂的数据终端费用。
+  family: 子女成年无拖累，但面对中年亲友对“临近退休还折腾”的普遍质疑。
+  reproductive: 创业时早已完成生育周期。
+  social: 传统华尔街是极度由常春藤白人男性把控的保守闭门体系，推崇保密、冷酷与私密俱乐部。
+  gender: 在主流财经媒体上长期遭遇“这位女士过于情绪化、不切实际”的隐形性别嘲弄。
+  career: 离开顶级公募 AllianceBernstein 时失去了庞大的投研后勤支撑与数千亿美元的分销渠道网络。
+  age: 58 岁创业，几乎是整个硅谷和华尔街创投史上极罕见的“高龄”破局者。
+  geography: 从纽约曼哈顿金融中心起步，后在 2021 年顺应数字化趋势将总部迁往佛罗里达州圣彼得堡。
+  immigration: 本土公民。
+  capital_access: 传统机构投资者和主权基金早期坚决不予认购其高波动 ETF。
+
+career:
+  previous_work: 资本集团 (Capital Group) 助理经济学家；詹尼森联合 (Jennison Associates) 首席经济学家兼董事总经理 (18年)；联博基金 (AllianceBernstein) 全球主题策略首席投资官 (12年)。
+  transition: 在联博提出创立基于主动管理型 ETF 的破坏性创新科技基金，被董事会以“波动过大、不符合传统风控”为由直接否决，愤而离职创业。
+  business_model: 主动管理型透明交易 ETF (ARK Innovation ETF 等) + 机构专户管理 + 风险投资 (ARK Venture Fund)。
+  source_of_capital: 个人积蓄自筹启动 + 早期少数股权出让给 Resolute Investment Managers 换取分销通道。
+  ownership: 持有方舟投资管理公司控股股权。
+  revenue_model: 按资产管理规模收取固定管理费（约 0.75%），无业绩对赌清盘线，高经营杠杆。
+
+key_decisions:
+  - decision: 放弃传统对冲基金“暗箱保密”套路，推行“全开放研报 + 每日持仓全网公开”
+    context: 作为小型新基金，既无华尔街大投行销售渠道，又无知名富豪站台。
+    alternatives: 按照传统做法，对研究持仓严格保密，花巨资雇佣中介团队给家族办公室打电话。
+    risk: 容易被对手盘提前狙击或复制策略，遭遇同行公开嘲笑。
+    reason: 在移动互联网与散户觉醒时代，传统黑匣子模式已失去信任；唯有彻底透明才能穿透传统机构封锁，形成全球宗教级信徒网络。
+    outcome: 每日通过邮件和推特向全球百万投资者免费发送当天的全部调仓明细与宏观研究，迅速成为全球最受关注的科技基金一号人物，管理规模从几千万狂飙至峰值超 600 亿美元。
+  - decision: 坚定集中重仓“五大跨学科底层创新技术”，不随大盘风格漂移
+    context: 传统基金经理习惯根据宏观利率调整仓位至防御股。
+    alternatives: 平衡配置传统消费与金融公用事业，降低波动率。
+    risk: 在加息周期中由于贴现率上升面临断崖式净值下跌。
+    reason: 坚信未来是属于指数级降本的技术（AI、基因编辑、电动车/储能、机器人、区块链），妥协只会沦为平庸。
+    outcome: 成为特斯拉、流媒体 Roku、Square 早期最坚定的长期机构推手，2020 年旗舰基金 ARKK 暴涨 152%，斩获全球收益率冠军。
+
+failures:
+  - failure: 2021–2022 年美联储急剧加息周期中净值遭遇超 75% 剧烈回撤
+    cause: 组合中缺乏有效的宏观对冲工具与利率敏感性保护，过度执着于纯科技成长标的，高估了科技公司抵抗宏观流动性紧缩的能力。
+    response: 坚持不割肉平仓，继续深化对生成式 AI 等下一代技术的定投，向投资者反复解释长期 5 年复利逻辑，保持团队核心骨干不散。
+    consequence: 旗下管理资产大幅缩水，遭遇主流媒体空前声讨与唱衰，但依靠独特的管理费结构与散户黏性成功存活，并在 2023–2024 年科技股反弹中重获生机。
+
+turning_points:
+  - event: 2018 年在 CNBC 电视直播中公开预言特斯拉股价将在 5 年内达到 4000 美元（分拆调整前）。
+    decision: 顶着全华尔街华丽做空天团的一致嘲弄，将公开模型与详细估值表格挂在 GitHub 供全网开源挑刺。
+    result: 特斯拉随后在 2020 年提前完成目标并纳入标普 500，Cathie Wood 被尊封为“科技女股神”，一战奠定全球宗师级声誉。
+
+relationships_and_power:
+  mentors: 阿瑟·拉弗 (Arthur Laffer，著名经济学家，供给学派代表人物)。
+  partners: 布雷特·温顿 (Brett Winton，ARK 长期首席未来学家兼首席技术官)。
+  networks: 硅谷顶尖科技创始人圈（埃隆·马斯克经常在推特与其公开深度互动讨论）。
+  investors: Resolute Investment Managers, Nikko Asset Management.
+  institutions: 芝加哥期权交易所 (Cboe)、纽约证券交易所 (NYSE)、SEC。
+
+wealth:
+  starting_point: 数百万美元传统薪水储蓄，无企业控制权。
+  wealth_creation_mechanism: 独立资管公司 100% 经营杠杆 + 资产管理规模 (AUM) 爆炸带来的巨额管理费收入。
+  capital_strategy: 将资管管理费收益转化为公司自有资本储备，并投资于旗下流动性风险投资基金，实现个人资产与基金表现的高度共担。
+
+decision_patterns:
+  - pattern: "大器晚成的认知变现：在 50+ 岁利用前三十年积累的专业深度，摆脱体制束缚，以个人品牌创设独立资管载体。"
+  - pattern: "极致透明对抗黑箱排斥：用互联网式的开源与公开，粉碎传统男性金融圈层的密室壁垒。"
+
+anti_patterns:
+  - pattern: "宏观周期无对冲盲区：在流动性紧缩周期中固执己见拒绝任何下行对冲，导致资产净值承受超常波动。"
+
+transferability:
+  highly_transferable:
+    - "在成熟行业中用'极致透明与开源分享'打破老牌巨头的渠道封锁。"
+    - "50+ 岁充分释放无育儿照护包袱的时间自由，将终身认知转化为商业载体。"
+    - "坚持基于第一性原理的长期主题研究，不为短期季度业绩噪音所动摇。"
+  context_dependent:
+    - "2020 年全球央行零利率大放水催生的科技股极端狂热行情（特定宏观流动性泡沫红利）。"
+  not_transferable:
+    - "个人对极端资产净值腰斩（回撤 70%）依然谈笑风生、毫无生理崩溃迹象的钢铁般神经承受力。"
+
+evidence:
+  sources:
+    - "SEC Form ADV & ARK Investment Management 官方披露档案"
+    - "Bloomberg Markets: How Cathie Wood Built ARK Invest"
+    - "Financial Times Profile: Cathie Wood's High-Stakes Tech Bet"
+  evidence_level: "documented fact (SEC 法定披露文件、彭博终端数据、经审计基金财报)"

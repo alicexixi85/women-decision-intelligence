@@ -1,0 +1,100 @@
+identity:
+  name: J.K. Rowling (J.K. 罗琳 / 乔安妮·罗琳 / Joanne Rowling)
+  nationality: 英国 (UK)
+  era: 现代 (1965年出生，1995年30岁贫困单亲起步创作，1997年出版首部哈利波特)
+  industry: 文化出版 / 影视IP / 娱乐版权 (Publishing / Entertainment / IP)
+  role: 作家、哈利·波特 IP 终极版权所有者、全球首位靠写作净资产破十亿美元的作家
+
+background:
+  childhood: 出生于英国格洛斯特郡叶特，父亲为劳斯莱斯飞机发动机工程师，母亲为科学实验室技术员。自幼热爱写作与虚构故事。
+  family: 母亲在她 25 岁时因多年多发性硬化症不幸早逝，对她造成终身难以愈合的心灵创伤。
+  socioeconomic_background: 英国普通工薪阶层，青年时期经历断崖式阶层滑落，一度处于绝对贫困线以下。
+  education: 埃克塞特大学 (University of Exeter) 法语与古典学学士。
+  initial_resources: 零资产，一台二手打字机，以及推着婴儿车在爱丁堡免费取暖咖啡馆里手写的手稿。
+
+life_stage:
+  age_at_key_decision: 28 岁在葡萄牙经历短暂且充斥家庭暴力的婚姻，孤身抱着仅数月大的女儿逃回英国；29–31 岁依靠政府每周 69 英镑的救济金维持母女生存并在咖啡馆完成《哈利·波特与魔法石》；35 岁成为全球顶级出版文化符号。
+  relationship_status_if_relevant: 第一任葡萄牙记者丈夫存在严重家庭暴怒与控制欲，罗琳果断携带幼儿脱离；36 岁与苏格兰麻醉科医生 Neil Murray 结婚，家庭和睦稳定。
+  children_if_publicly_documented: 育有三名子女（长女 Jessica 为单亲时期抚养，再婚后生育一子一女）。
+  caregiving_responsibility_if_relevant: 20s 后期独自承担单亲幼女的全部看护与生活照料，在极度匮乏的救济房中，将创作时间与幼儿午睡时间分秒必争地强行拼配。
+
+constraints:
+  financial: 极度贫困，无钱租用日托，无钱安装暖气，多次因缺钱而面临被驱逐。
+  family: 母亲早逝，与父亲关系长期存在隔阂，在爱丁堡举目无亲。
+  reproductive: 青年时期在单亲绝境中独自完成长女抚养，在身家过亿后步入中年家庭二次生育。
+  social: 1990 年代英国对领救济金的单亲母亲存在极其深重的社会鄙视与污名化。
+  gender: 出版初期，出版商布鲁姆斯伯里 (Bloomsbury) 担心“小男孩不会买女作家写的书”，强制要求其隐去女性名字 Joanne，改用中性化缩写“J.K.”署名。
+  career: 遭遇 12 家主流出版社集体拒稿，被普遍认为“篇幅过长、儿童读者缺乏耐心”。
+  age: 30 岁前后经历人生最黑暗绝境，35 岁登顶财富巅峰。
+  geography: 从伦敦、波尔图到苏格兰爱丁堡。
+  immigration: 跨国婚姻破裂后回国。
+  capital_access: 无法获得商业借贷，早期仅靠苏格兰艺术委员会发放的 8000 英镑小额创作资助金维持生命线。
+
+career:
+  previous_work: 国际特赦组织 (Amnesty International) 双语秘书、葡萄牙波尔图英语教师。
+  transition: 在曼彻斯特开往伦敦延误的火车上获得灵感，利用单亲失业救济期，将全部绝望注入虚构魔法世界。
+  business_model: 图书版税 + 影视改编分成 + 全球衍生品许可 (Merchandising) + 独家数字出版平台 (Pottermore / Wizarding World)。
+  source_of_capital: 个人救济金自筹时间 + 早期出版预付款 (1500 英镑) + 华纳兄弟高额版权许可费。
+  ownership: 100% 绝对掌控哈利·波特所有文字、影视一票否决权与数字出版版权。
+  revenue_model: 全球图书销售超 5 亿册的高额阶梯版税、华纳百亿美元票房分账比例、奥兰多环球影城主题公园门票与衍生品固定抽成。
+
+key_decisions:
+  - decision: 在成名初期聘请铁血经纪人，死守影视改编的“终极创作否决权”
+    context: 1998 年好莱坞各大巨头（包括华纳兄弟）争抢《哈利·波特》电影版权，普遍要求全盘买断所有衍生权利并随意魔改剧情。
+    alternatives: 一次性数百万美元直接卖断所有好莱坞权利，落袋为安。
+    risk: 谈判陷入僵局，好莱坞巨头放弃拍摄，错失全球影视化爆发窗口。
+    reason: 认识到一旦失去控制权，好莱坞会将故事改成低俗美式爆米花快餐，毁灭原创 IP 的精神宇宙。
+    outcome: 签署前所未有的严苛协议：坚持所有主要演员必须为英国本土演员、剧本修改必须经其本人亲笔首肯，并保留不可侵犯的后续衍生品固定分成比例，确保了整个系列 8 部电影的高水准与百亿长尾回报。
+  - decision: 坚决不把数字电子书版权交给亚马逊等垄断平台，自建 Pottermore 独家销售
+    context: 2011 年 Kindle 电子书大爆发，亚马逊极力逼迫传统出版社交出电子书定价权并抽取 30%–50% 佣金。
+    alternatives: 顺从出版商直接在亚马逊 Kindle 商店上架。
+    risk: 自建平台面临高昂的技术维护成本与用户支付转化门槛。
+    reason: 洞察到由于自己拥有数千万狂热读者，用户愿意为了哈利·波特专门下载，不应被任何技术平台中间商抽税。
+    outcome: 创办 Pottermore（现 Wizarding World），亚马逊等巨头不得不妥协支持其外部重定向购买，实现了数字版权收益的 100% 独享。
+
+failures:
+  - failure: 早期试图以笔名“罗伯特·加尔布雷思 (Robert Galbraith)”出版成人侦探小说初期销量惨淡
+    cause: 隐去超级畅销书作家光环后，普通文学市场真实反应极其平淡，首印本仅售出数百册。
+    response: 绝不依靠虚张声势，坦然接受市场对新题材的冷淡，继续扎实磨砺剧情逻辑，直到后来身份被偶然揭晓。
+    consequence: 验证了非超级 IP 领域的残酷常态，促使其将更多战略精力持续聚焦于魔法宇宙衍生作品（如《神奇动物在哪里》、舞台剧《被诅咒的孩子》）的精细化运营。
+
+turning_points:
+  - event: 1997 年初，布鲁姆斯伯里出版社 (Bloomsbury) 决定买下第一部手稿。
+    decision: 当时社长 Nigel Newton 将手稿带回家给 8 岁女儿阅读，女儿被深深吸引，促成出版社支付 1500 英镑微薄预付款签约。
+    result: 打开了正式出版大门，第一部上市后迅速斩获各大儿童文学奖项，开启传奇历史。
+
+relationships_and_power:
+  mentors: 母亲安妮 (Anne Rowling，精神图腾)；小学启发其文学兴趣的老师。
+  partners: 克里斯托弗·利特尔 (Christopher Little，早期文学经纪人，以强硬谈判为罗琳保住了核心版权)。
+  networks: 英国皇家文学学会、苏格兰工党核心高层、全球儿童权益保护组织。
+  investors: 无（全靠文学版权自身衍生变现）。
+  institutions: 华纳兄弟影业 (Warner Bros.)、环球影业 (Universal Parks)、布鲁姆斯伯里出版公司。
+
+wealth:
+  starting_point: 绝对负数，依靠社会救济金度日。
+  wealth_creation_mechanism: 全球超级文化 IP 100% 版权垄断 + 影视票房/流媒体/主题公园长尾持续抽成 + 个人家族信托运营。
+  capital_strategy: 将源源不断的版权现金流分散投资于英国优质土地不动产、主权级长期稳健国债，并设立 Lumos 等大型慈善基金会回馈社会。
+
+decision_patterns:
+  - pattern: "版权主权绝对神圣化：在任何谈判中，绝不为了一次性大额支票出卖长期的排他性知识产权与创作否决权。"
+  - pattern: "将深重痛苦转化为普遍救赎：将亲人离世、临床抑郁症的绝望（具象化为摄魂怪）升华为跨越文化的精神力量。"
+
+anti_patterns:
+  - pattern: "在贫困时期为了短视小利轻易签署买断式全版权霸王合约，沦为终身给资方打工的文学劳工。"
+
+transferability:
+  highly_transferable:
+    - "在创作者与平台合作初期，死守核心著作权、改编否决权与数字出版独立分销权。"
+    - "单亲极低资源情境下，利用时间碎片化高度自律产出最小核心资产。"
+    - "将个人真实的情感创伤与精神危机，转化为击穿大众共鸣的内容作品。"
+  context_dependent:
+    - "1990 年代末全球实体畅销书纸媒发行与好莱坞全球合家欢大片黄金时代的时代红利。"
+  not_transferable:
+    - "构筑跨越数个世纪、引发全球数十亿人狂热信仰的罕见文学想象力与全球文化黑天鹅奇迹。"
+
+evidence:
+  sources:
+    - "Sean Smith: J.K. Rowling: A Biography"
+    - "Forbes Billionaire List Archive: The Billionaire Author Who Gave Away Her Fortune"
+    - "Harvard University Commencement Speech by J.K. Rowling: The Fringe Benefits of Failure (2008)"
+  evidence_level: "documented fact (哈佛演讲官方记录、正式出版与电影版权法定登记、福布斯审计调查)"

@@ -1,0 +1,100 @@
+identity:
+  name: Melanie Perkins (梅兰妮·珀金斯)
+  nationality: 澳大利亚 (Australia)
+  era: 现代 (1987年出生，2012年25岁创立 Canva)
+  industry: 科技 / SaaS / 生成式设计软件 (Software / Design / Tech)
+  role: Canva 联合创始人兼 CEO、科技亿万富豪
+
+background:
+  childhood: 出生于澳大利亚珀斯，父亲为马来西亚华人工程师，母亲为澳大利亚教师。自幼具有商业意识，14 岁时手工编织围巾并在当地市场售卖。
+  family: 稳定中产家庭，父母支持其自主探索，但无科技风投或硅谷顶级政商资源。
+  socioeconomic_background: 典型普通中产阶层，无巨额遗产信托。
+  education: 就读于西澳大学 (University of Western Australia)，主修传播、心理学与商学；大学期间在兼职教其他学生使用 Photoshop 和 InDesign 时发现专业软件极其反人类和臃肿，毅然退学创业。
+  initial_resources: 母亲客厅作为办公室，家庭小额借款与个人兼职积蓄。
+
+life_stage:
+  age_at_key_decision: 19 岁创办校刊设计软件 Fusion Books；25 岁正式启动 Canva 并前往硅谷融资；34 岁登顶澳大利亚白手起家女首富。
+  relationship_status_if_relevant: 与大学伴侣兼商业合伙人 Cliff Obrecht 长期恋爱长跑并共同创业；2021 年（34岁，公司已百亿估值）低调举行小型环保婚礼。
+  children_if_publicly_documented: 创业冲刺期无公开记录子女，将青年时期全部核心带宽投注于 Canva 全球扩张。
+  caregiving_responsibility_if_relevant: 20s–30s 阶段无家庭照护包袱，伴侣全职深度同舟共济，生活与工作高度统一。
+
+constraints:
+  financial: 澳大利亚本土当时极度缺乏面向纯软件消费级 SaaS 的风险投资生态。
+  family: 远离全球科技中心硅谷，初期无法进入顶级创投社交圈。
+  reproductive: 青年时期全身心投入产品长跑，延后传统家庭节奏。
+  social: 澳大利亚科技创投圈规模极小，男性为主，对年轻女性提出的“干掉 Adobe”的宏大愿景抱以嘲笑。
+  gender: 硅谷男性投资人常将她视为“来自澳洲偏远小镇的理想主义小姑娘”，在融资会议上面临漫不经心的傲慢。
+  career: 退学创业，无大型跨国科技公司高管背书或工程名校履历。
+  age: 20 出头起步，面临年龄资历偏见。
+  geography: 西澳大利亚珀斯（全球最偏僻大陆城市之一），被迫多次跨越太平洋往返旧金山。
+  immigration: 澳大利亚国籍，在硅谷面临短期访问签证与缺乏本地绿卡的法律限制。
+  capital_access: 早期连续遭遇超过 100 位风险投资人的当面拒绝。
+
+career:
+  previous_work: 大学平面设计辅导员、手工围巾制作者。
+  transition: 发现学校年鉴排版极其低效痛点，先创立垂直工具 Fusion Books 赚取正向现金流，验证底层技术后升级为通用设计工具 Canva。
+  business_model: 产品驱动增长 (PLG) + 免费增值模式 (Freemium) + 团队/企业 SaaS 订阅。
+  source_of_capital: Fusion Books 留存利润自筹 + 澳大利亚政府匹配研发资助 (Commercialisation Australia) + 硅谷天使投资与顶级 VC。
+  ownership: 与伴侣 Cliff 联合持有控制权股权，2021 年公开宣布将所持 Canva 股份的 30%（约数十亿美元）捐赠给 Canva 慈善基金会。
+  revenue_model: 全球数千万付费订阅用户，年 ARR（经常性营收）超 20 亿美元，连续多年实现正向现金流盈利。
+
+key_decisions:
+  - decision: 先用垂直细分市场（Fusion Books 学校年鉴）做自给自足的最小试验
+    context: 19 岁时“重构全球设计”的愿景太大，既无技术团队又无资金，直接挑战 Adobe 必死无疑。
+    alternatives: 一开始就到处找天使投资宣讲宏大概念；放弃创业继续读完大学。
+    risk: 陷入年鉴打印这种重度琐碎业务，沦为传统小型排版作坊。
+    reason: 必须先在低风险垂直场景下验证“拖拽式零门槛设计”的底层可行性，并靠自己的造血生存。
+    outcome: Fusion Books 发展为澳大利亚最大的学校年鉴出版商，连续数年盈利，为 Canva 提供了首批种子资金、技术验证与商业信心。
+  - decision: 将被 100 多位 VC 拒绝的反馈转化为产品 pitch 迭代演练
+    context: 在硅谷融资期间长达数月寄宿在亲戚家地板上，连续见 100 多位投资人全部被拒。
+    alternatives: 放弃融资回澳洲继续只做年鉴；大幅压低估值出让公司多数控股权给流氓资方。
+    risk: 资金耗尽，签证到期，团队士气崩溃。
+    reason: 每次被拒后认真记录投资人提出的核心质疑，不断打磨商业计划书与产品演示 DEMO。
+    outcome: 偶然结识投资人 Bill Tai，学会风筝冲浪打入其高管圈层，最终打动前 Google 地图联合创始人 Lars Rasmussen，招募到顶级技术 CTO Cameron Adams，彻底完成闭环。
+
+failures:
+  - failure: 早期技术开发严重延期与外部外包团队不靠谱
+    cause: 自己与伴侣均非硬核底层架构师，早期外包开发的技术架构极其脆弱无法承受高并发。
+    response: 痛定思痛停止盲目外包，耗时近两年死磕，在硅谷和澳洲地毯式搜寻，直到找到技术合伙人 Cameron Adams 彻底重构底层代码。
+    consequence: 产品推迟近 18 个月上线，但奠定了 Canva 后来承载数千万用户毫秒级渲染的底层技术护城河。
+
+turning_points:
+  - event: 2013 年 Canva 正式向公众发布上线。
+    decision: 采取预约排队机制 (Waitlist) 制造稀缺感，联手科技博主 Guy Kawasaki 担任品牌布道师。
+    result: 上线首月即获得 5 万注册用户，第一年突破 100 万用户，彻底引爆全球自发病毒式裂变。
+
+relationships_and_power:
+  mentors: 盖伊·川崎 (Guy Kawasaki，苹果前首席布道师，Canva 早期布道者)；比尔·泰 (Bill Tai，硅谷著名天使投资人)。
+  partners: 克里夫·奥布雷希特 (Cliff Obrecht，伴侣兼首席运营官 COO)；卡梅隆·亚当斯 (Cameron Adams，联合创始人兼首席产品官 CPO)。
+  networks: 硅谷科技天使网络 (Kite VC Circle)、澳大利亚联邦科技创新协会。
+  investors: Blackbird Ventures, Sequoia Capital China, Bessemer Venture Partners, Franklin Templeton.
+  institutions: 西澳大学科技创新孵化器。
+
+wealth:
+  starting_point: 零，学生时期微薄积蓄。
+  wealth_creation_mechanism: 打造全球垄断性 SaaS 软件 + 极高经常性订阅收入 (ARR) + 保持公司正向现金流盈利。
+  capital_strategy: 早期用垂直业务自筹启动，中后期在业务估值巅峰期引入顶级机构并保持充沛现金储备（账面数十亿美元现金），绝不被资本牵着鼻子走。
+
+decision_patterns:
+  - pattern: "大愿景的小切口验证：当终极野心太大时，先在极窄垂直细分市场（如学校年鉴）自筹跑通 MVP，再向通用市场横向降维打击。"
+  - pattern: "抗逆力进化机制：把拒绝当做免费的产品咨询，通过数百次修正把方案打磨到毫无破绽。"
+
+anti_patterns:
+  - pattern: "无技术骨干盲目外包核心壁垒：在没有真正技术灵魂人物入伙前盲目烧钱给外部外包团队。"
+
+transferability:
+  highly_transferable:
+    - "用盈利的微型现金流业务（Fusion Books）孵化下一代平台级工具。"
+    - "产品驱动增长（PLG），依靠极致易用的交互体验驱动用户免费自发病毒传播。"
+    - "伴侣间职责泾渭分明（一人主抓产品愿景，一人主抓商业落地与运营）。"
+  context_dependent:
+    - "2012–2021 年全球 SaaS 云计算基础设施普及与远程协作工具爆发的时代巨浪。"
+  not_transferable:
+    - "极度罕见的产品直觉与在全球科技中心之外横跨大洋死磕并奇迹打通硅谷顶层的非凡意志力。"
+
+evidence:
+  sources:
+    - "Forbes Profile: How Melanie Perkins Built Canva into a $40 Billion Design Empire"
+    - "Bloomberg Billionaires Index: Melanie Perkins"
+    - "Stanford eCorner: Melanie Perkins on Building Canva and Overcoming Rejection"
+  evidence_level: "documented fact (官方企业历史档案、斯坦福商学院讲座、权威财务榜单确证)"

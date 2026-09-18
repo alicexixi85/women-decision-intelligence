@@ -1,0 +1,102 @@
+identity:
+  name: Coco Chanel (可可·香奈儿 / Gabrielle Bonheur Chanel)
+  nationality: 法国 (France)
+  era: 历史近代 (1883年出生，1910年27岁开店，1954年71岁二度复出，1971年逝世)
+  industry: 高级时装 / 奢侈品 / 香水美妆 (Luxury / Haute Couture / Fashion)
+  role: Chanel 品牌创始人、20世纪现代女性时装革命者、独立商业帝国奠基人
+
+background:
+  childhood: 出生于法国索米尔济贫院，母亲为未婚洗衣女工（在香奈儿12岁时因结核病早逝），流动小贩父亲随后将其与姐姐遗弃在奥巴辛 (Aubazine) 天主教孤儿院。
+  family: 彻底被家庭遗弃，在修道院黑白朴素制服与严格宗教纪律中度过童年，从修女手中习得极其精湛的缝纫与剪裁基本功。
+  socioeconomic_background: 极度贫困的底层孤儿，早年无任何合法社会身份与资本遗产。
+  education: 修女孤儿院初级裁缝学徒训练，未接受过正规文理大学教育。
+  initial_resources: 顶级的立体剪裁直觉、对上流阶层虚伪繁文缛节的深刻仇恨与解构野心、在咖啡馆驻唱赢得的小费与昵称“可可 (Coco)”。
+
+life_stage:
+  age_at_key_decision: 27 岁（1910年）在巴黎康朋街 21 号开设女帽店；38 岁（1921年）推出革命性香奈儿 5 号 (Chanel No. 5) 香水；71 岁（1954年）在被流放瑞士十年后以古稀之年宣布全面复出重振时装屋。
+  relationship_status_if_relevant: 终身未婚；早年成为富裕骑兵军官艾蒂安·巴桑 (Étienne Balsan) 的情妇以借力跨越阶层，后与毕生挚爱英国工业家阿瑟·卡佩尔 (Boy Capel) 相恋并获其资金支持；二战期间因与德国军官恋情卷入政治旋涡。
+  children_if_publicly_documented: 终生未育（自称将所有的爱与生命全部生殖在品牌与设计作品中）。
+  caregiving_responsibility_if_relevant: 无子女照料负担，全天候专注于时装王国的审美重塑与独立掌控。
+
+constraints:
+  financial: 早期无个人银行信贷资格，在 19 世纪末的法国，单身底层女性无法独立以个人名义开办银行账户。
+  family: 孤儿院底层出身，在讲究门第血统的巴黎老牌贵族社交圈中面临终身的隐形阶层歧视。
+  reproductive: 主动选择终身不入传统婚姻，将所有精力与情感寄托于商业艺术创作。
+  social: 一战前的欧洲女性被紧身胸衣 (Corset)、沉重裙撑与繁复蕾丝死死捆绑，身体遭受物理摧残与行动限制。
+  gender: 巴黎高级定制时装界当时完全被男性设计师（如保罗·波烈 Paul Poiret）主导，女性身体被设计为取悦男性的奢华花瓶。
+  career: 早期被迫依赖男性贵族的资助作为启动跳板，面临被社会道德斥为“高级交际花”的声誉绞杀。
+  age: 71 岁绝境复出，面临全欧洲时尚媒体的集体嘲弄与诅咒。
+  geography: 从法国偏远修道院到巴黎康朋街、杜维尔度假胜地。
+  immigration: 本土公民，二战后流亡瑞士洛桑近十年。
+  capital_access: 早期依靠 Boy Capel 的无息个人借款，后续通过香水公司获得沃特海默家族 (Wertheimer) 的跨国资金网络。
+
+career:
+  previous_work: 针织裁缝学徒、穆兰温泉小镇咖啡馆驻唱歌手。
+  transition: 从制作简约优雅的无羽毛女帽起步，随后敏锐将男性马球服面料（平针织物 Jersey）用于女性时装，彻底解放女性身体。
+  business_model: 高级定制时装引流与造梦 + 革命性合成香水 (No. 5) 极高毛利收割 + 标志性经典单品（斜纹软呢套装、2.55链条包）长期复购。
+  source_of_capital: 私人借款起步（后全额连本带利还清）+ 沃特海默家族 Bourjois 香水财团资本运作。
+  ownership: 时装屋 100% 自主掌控；香水公司初期仅持股 10%（后经数十年残酷谈判获得巨额终身版税与全部开支报销协议）。
+  revenue_model: 全球顶级奢侈品专卖零售、香水全球联合分销。
+
+key_decisions:
+  - decision: 砸碎束身胸衣，大胆将“男性平针针织面料 (Jersey)”引入女性高级时装
+    context: 1914 年一战爆发，传统丝绸与奢华面料极度匮乏，女性走出家庭进入战时工厂与医院工作。
+    alternatives: 顺从传统，继续用仅存的高档面料为贵族妇人缝制昂贵而无法自由活动的束身长裙。
+    risk: 被保守上流社会斥为“粗俗、缺乏女性魅力、把内衣穿在外面”。
+    reason: 洞察到时代的巨浪已不可逆转，女性需要行动自由、呼吸自由与工作尊严；简约才是真正的终极奢华。
+    outcome: 推出宽松利落的针织套装与“小黑裙 (The Little Black Dress)”，一战奠定现代女性时装基石，波莱特等传统紧身胸衣设计师全盘破产。
+  - decision: 71 岁高龄面对全法国媒体嘲讽，以钢铁意志重启高级定制时装屋
+    context: 1954 年二战后欧洲时尚界被克里斯汀·迪奥 (Christian Dior) 的“新风貌 (New Look)”统治（重新用紧身胸衣和厚垫肩束缚女性），香奈儿流亡瑞士近十年后复出，巴黎媒体首秀当晚集体给出恶评“一具老朽的过去幽灵”。
+    alternatives: 依靠瑞士账户里的数百万美元香水版税安享奢华晚年。
+    risk: 个人积蓄在复出首季亏空殆尽，遭遇一生未有的舆论公开处刑。
+    reason: 痛恨迪奥对女性身体的倒退式反扑，誓要证明自己倡导的“女性行动自由”才是不可战胜的真理。
+    outcome: 法国虽冷落，但大洋彼岸的美国《Life》杂志与各大高端百货买手集体疯狂下单，美国职业女性对香奈儿斜纹软呢套装狂热追捧，71 岁复出反转成为全球商业与时尚史上最震撼的胜利。
+
+failures:
+  - failure: 1924 年在香奈儿香水公司 (Parfums Chanel) 股权谈判中受制于人
+    context: 早期为了利用全球大工厂批量生产 5 号香水，与犹太商人皮埃尔·沃特海默合作设立香水实体。
+    cause: 沃特海默出资并承担生产销售占股 70%，中介占股 20%，香奈儿仅分得 10% 股权与微薄专利费，导致其后期长达数十年深陷夺取控股权的痛苦诉讼与政治死结。
+    response: 持续不断地以推出新个人系列、停止商标授权为筹码与沃特海默家族打持久谈判战。
+    consequence: 虽未能全资收回香水公司，但逼迫沃特海默家族在战后重新签署协议：全额承担香奈儿晚年在丽兹酒店的全部奢华开销、代缴全部税款，并按全球销售额支付巨额百分比版税。
+
+turning_points:
+  - event: 1921 年与前沙皇宫廷御用调香师恩斯特·鲍 (Ernest Beaux) 合作调制香奈儿 5 号 (Chanel No. 5)。
+    decision: 打破以往只用单一茉莉或玫瑰纯花香的传统，大胆加入大量人工合成乙醛 (Aldehydes)。
+    result: 创造出一种前所未有、复杂深邃、永不褪色的前卫香气，成为人类历史上最畅销的香水传奇，百年来贡献了数百亿美元利润。
+
+relationships_and_power:
+  mentors: 奥巴辛修女院修女（严谨缝纫手工与极简审美黑白配色的终身烙印）。
+  partners: 阿瑟·卡佩尔 (Boy Capel，商业启蒙与关键启动资金借款人)；皮埃尔·沃特海默 (Pierre Wertheimer，商业资本操盘合伙人)。
+  networks: 毕加索、让·科克托、斯特拉文斯基、丘吉尔（英国前首相与长期亲密挚友）、威斯敏斯特公爵（当时全英首富）。
+  investors: 沃特海默家族（Parfums Chanel 资方）。
+  institutions: 巴黎高级时装公会、法国商业法庭。
+
+wealth:
+  starting_point: 绝对赤贫孤儿。
+  wealth_creation_mechanism: 现代女性时装设计话语权垄断 + 5 号超级香水全球暴利现金牛 + 跨国奢侈品特许经营。
+  capital_strategy: 早期坚守全部个人借款必定全额偿还的自立尊严；晚年通过协议将生活风险与企业成本彻底转嫁给资本合伙人，维持个人极致尊贵晚年。
+
+decision_patterns:
+  - pattern: "从约束中提炼极简美学：将修道院童年贫穷的黑白制服与朴素线条，升华为全欧洲上流社会顶礼膜拜的永恒高级审美。"
+  - pattern: "高龄反击的宿命复仇：当外界所有人都判定自己已被历史淘汰时，以极度的不服输和扎实的产品复购完成历史大逆转。"
+
+anti_patterns:
+  - pattern: "在早期知识产权与合资公司架构中轻易让渡 90% 股权给外部资方，导致后续半个世纪陷入无休止的控制权泥潭。"
+
+transferability:
+  highly_transferable:
+    - "将客户从痛苦沉重的物理束缚（如胸衣、繁琐繁复流程）中解放出来，打造极致舒适易用的产品。"
+    - "将男性领域的实用工具/面料（如男士针织布）跨界引入女性蓝海市场。"
+    - "古稀之年中老年依然具备重整旗鼓、单挑主流审美的无畏魄力。"
+  context_dependent:
+    - "一战和二战引发的欧洲女性劳动力解放与社会阶级重组的历史断裂大窗口。"
+    - "20 世纪初通过贵族沙龙与名流私密网络完成跨阶层资本原始积累的特定旧时代机制。"
+  not_transferable:
+    - "二十世纪初欧洲上流社会顶层独特的权贵联姻、情妇文化与错综复杂的极端历史政治漩涡。"
+
+evidence:
+  sources:
+    - "Edmonde Charles-Roux: Chanel and Her World (权威法文传记)"
+    - "Rhonda K. Garelick: Mademoiselle: Coco Chanel and the Pulse of History"
+    - "Harvard Business School Case Study: Chanel: The House of Luxury and Haute Couture"
+  evidence_level: "documented fact (法国商业注册历史档案、香水合资公司正式协议文件、多部权威公认历史学术专著)"
