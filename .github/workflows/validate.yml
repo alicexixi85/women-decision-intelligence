@@ -1,0 +1,36 @@
+name: Validate knowledge base
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install YAML parser
+        run: python -m pip install --disable-pip-version-check pyyaml
+      - name: Validate YAML and JSON
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import yaml
+
+          for path in Path(".").rglob("*.yaml"):
+              with path.open(encoding="utf-8") as f:
+                  yaml.safe_load(f)
+
+          for path in Path(".").rglob("*.json"):
+              with path.open(encoding="utf-8") as f:
+                  json.load(f)
+
+          cases = sorted(Path("cases").glob("*.yaml"))
+          assert len(cases) == 22, f"Expected 22 case files, found {len(cases)}"
+          print(f"Validated {len(cases)} case YAML files and all JSON files.")
+          PY
