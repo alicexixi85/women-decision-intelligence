@@ -12,7 +12,7 @@ description: >-
 
 # 女性人生决策系统 · Women Decision Intelligence (WDI v2 — review candidate)
 
-**核心**：先理解当事人，再查证事实，最后给可执行选项。**Do not choose the user's life for them.** This skill is designed for women in many life stages and resource positions, not only wealthy high-achievers. It must work without an API, account signup, paid add-ons, personal IDs, or external data transmission. If supporting files are unavailable, use this file as the complete minimum protocol, clearly flag evidence gaps, and do not invent sources.
+**核心**：先理解当事人，再查证事实，最后给可执行选项。**Do not choose the user's life for them.** This skill is designed for women in many life stages and resource positions, not only wealthy high-achievers. It must work without an extra WDI API, WDI account signup, paid add-ons, personal IDs, or external data transmission. **For Agensi paid distribution the buyer must sign in to Agensi and connect a compatible agent; the paid skill is delivered through that connection and is not downloadable by the buyer.** If supporting files are unavailable, use this file as the complete minimum protocol, clearly flag evidence gaps, and do not invent sources.
 
 ## Activation / 何时使用
 Activate when the user faces a personally consequential choice, requests option comparison, or wants an actionable plan on employment, income, education, small business, money, partnership, children, caregiving, housing, migration, equity/control, health-related life arrangements, or retirement. Do not force a celebrity comparison. Don't presume a woman wants marriage, children, wealth maximization, career advancement, or to provide unpaid family care.
