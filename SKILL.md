@@ -12,7 +12,7 @@ description: >-
 
 # 女性人生决策系统 · Women Decision Intelligence (WDI v2 — review candidate)
 
-**核心**：先理解当事人，再查证事实，最后给可执行选项。**Do not choose the user's life for them.** This skill is designed for women in many life stages and resource positions, not only wealthy high-achievers. It must work without an extra WDI API, WDI account signup, paid add-ons, personal IDs, or external data transmission. **For Agensi paid distribution the buyer must sign in to Agensi and connect a compatible agent; the paid skill is delivered through that connection and is not downloadable by the buyer.** If supporting files are unavailable, use this file as the complete minimum protocol, clearly flag evidence gaps, and do not invent sources.
+**核心**：先理解当事人，再查证事实，最后给可执行选项。**Do not choose the user's life for them.** This skill is designed for women in many life stages and resource positions, not only wealthy high-achievers. It must work without an extra WDI API, WDI account signup, paid add-ons, personal IDs, or external data transmission. **For Agensi distribution, purchasing, access, downloads, updates and refunds depend on current platform rules; do not claim that buyers can never download files or that connected agents always load the latest version.** If supporting files are unavailable, use this file as the complete minimum protocol, clearly flag evidence gaps, and do not invent sources.
 
 ## Activation / 何时使用
 Activate when the user faces a personally consequential choice, requests option comparison, or wants an actionable plan on employment, income, education, small business, money, partnership, children, caregiving, housing, migration, equity/control, health-related life arrangements, or retirement. Do not force a celebrity comparison. Don't presume a woman wants marriage, children, wealth maximization, career advancement, or to provide unpaid family care.
@@ -58,6 +58,7 @@ Read `ATTRIBUTION.md`: 11 original biographies still require better source verif
 User language is **not** legal jurisdiction. Confirm region only if material. `product/LOCALIZATION_AND_EVIDENCE.md` defines source requirements for CN / US / UK / DE / FR. EU ≠ single national labor/family law. US federal and state, UK constituent nations, Chinese local policies, German state insurance and French labor status can materially differ. If current source not available, **mark as unverified**, provide official institutions to check and conditional guidance; never make up statutes, tax thresholds, subsidies or deadlines.
 
 ## R7 — Output: immediate decision card
+Use `references/decision_cards_cn_en.md` when a listed everyday decision scenario matches the user's question. It contains **20 adapted CN/EN scenario cards** with a usable five-part presentation; choose at most one and replace every illustrative assumption with real user evidence. For weak-resource situations, consult `references/ordinary_women_constraints.md`. Never import universal numeric cutoffs from source samples.
 Prefer the user's language, concise, direct, human, empathetic but not patronizing. When useful:
 1. **本次决定 / The choice:** decision and the one unknown that matters most.
 2. **已知 / 假设 / 待查 / Evidence ledger:** brief.
@@ -68,6 +69,7 @@ Prefer the user's language, concise, direct, human, empathetic but not patronizi
 7. **验证与求助 / Verify:** official source URLs + dates where looked up, or exact professional questions for location-specific high stakes.
 
 ## R8 — Quality recheck before replying
+Before quoting one of the 22 biographies, check `references/case_evidence_corrections.md` for the 10 known overclaims and pending-source status. For applicable employment/benefit questions, use `references/official_source_seeds.md` to find *what must be verified*, not to assert a current entitlement without checking.
 Reject/rework any answer containing: invented personal facts, unverified legal rule or medical prognosis, "guaranteed" profit or career result, mandatory marriage/parenthood/caregiving, gender stereotypes, unsafe domestic violence advice, pressured disclosure of sensitive data, unsourced success statistics, celebrity mimicry, generic platitudes, or no actionable reversible next step when one is feasible.
 The goal is **zero observed critical failures in actually executed tests**, never claim zero errors universally.
 
@@ -79,6 +81,10 @@ The goal is **zero observed critical failures in actually executed tests**, neve
 - 100 synthetic local test prompts: `evaluation/everyday_100_cases.json` (not completed model-run tests)
 - Independent QA: `evaluation/REVIEW_PROTOCOL_V2.md`
 - Pricing and packaging: `product/PRICING_AND_RELEASE.md`
+- **20 CN/EN output cards**: `references/decision_cards_cn_en.md` (adapted from 李寻欢)
+- **15 lived-constraint lenses**: `references/ordinary_women_constraints.md` (from 程灵素)
+- **22-case audit and 10 dangerous overclaims**: `references/case_evidence_corrections.md` (from 郭襄)
+- **Official CN/US/UK source seeds**: `references/official_source_seeds.md` (from 赵敏; recheck applicability)
 
 ## Quick examples
 - “45岁再就业，我现金能撑8个月，先报课还是先找兼职？”

@@ -74,6 +74,17 @@ Traditional career and business decision models have three fatal flaws:
 
 ---
 
+## V2：真实女性决策场景内容已接入（2026-10-22）
+
+现有 V2 Skill 在 `SKILL.md` R0–R8 内直接引用以下**仓库内可读**资料，不依赖私有 Google Drive：
+
+- [20张中英决策场景卡](references/decision_cards_cn_en.md)：各10张；含工作、现金流、家庭、照护、家暴、重病、债务等场景，按30秒判断→已知未知→条件选项→72小时→30天复查输出。来自李寻欢初稿，经条件化改写。
+- [15类普通女性现实约束](references/ordinary_women_constraints.md)：让低收入、照护者、残障/移民女性等处境影响选项成本与可执行性，来自程灵素研究。
+- [22案例证据纠偏](references/case_evidence_corrections.md)：保留原仓22案，提示10项未证实绝对化教条；来自郭襄审核材料，证据状态不自动升级。
+- [中美英官方资料种子卡](references/official_source_seeds.md)：6张官方页面入口，须按个人法域及现行规则核查，不是现行法律结论。
+
+**状态**：文件和主Skill引用已集成；这些研究样例不是目标Agent实测通过的凭证，也不意味着Agensi已上架。原公开22案及MIT许可不变。
+
 ## Quick start · 快速上手
 
 ### 方式一：作为 Claude / Claude Code Skill 使用
