@@ -108,6 +108,14 @@ Layer 1: Female Case Knowledge Base（全景真实人物 YAML 档案）
 
 ---
 
+## Free 7-minute decision worksheet · 7分钟免费决策清单
+
+[**Try the bilingual six-constraint checklist (free, no sign-in)**](FREE-DECISION-CHECKLIST.md) — Cash, time, care, safety, decision control, and institutional barriers. It includes a direct link to the $35 WDI product for readers who need the guided version.
+
+[**免费试用中英双语六维约束清单**](FREE-DECISION-CHECKLIST.md)：检查现金、时间、照护、安全、实控权和制度门槛；需要完整引导时可从清单进入 WDI 付费商品。
+
+---
+
 ## Samples · 免费样例
 
 想先看看质量？仓库里留了 4 份完整样例，免费读：
