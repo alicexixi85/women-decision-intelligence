@@ -12,7 +12,8 @@ Works with **Claude / Claude Code, Antigravity, and any AI agent** that supports
 本仓库只作产品展示，**不包含完整内容**。完整版为付费产品：
 
 - **价格 / Price:** US$35 one-time（一次性付费）
-- **购买 / Buy:** [Agensi — Women's Decision Intelligence](https://agensi.io/creators/xixi)
+- **Gumroad 购买 / Buy on Gumroad:** [Women's Decision Intelligence · US$35 one-time](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence?utm_source=github&utm_medium=readme&utm_campaign=wdi_gumroad_launch_20261026)
+- **Agensi 购买 / Also available on Agensi:** [Women's Decision Intelligence](https://agensi.io/creators/xixi)
 - 购买后获得完整可安装包，在自己的 AI Agent 中直接提问即可激活决策工作流。
 - 未经授权，禁止复制、修改、分发或商用本产品任何内容（见 [LICENSE](LICENSE)）。
 
@@ -115,11 +116,13 @@ Layer 1: Female Case Knowledge Base（全景真实人物 YAML 档案）
 - Playbook 样例：[Career Transition 职业转轨](playbooks/career_transition.md)（完整版共 7 个 playbooks + 框架与评测集）
 - 决策卡样例：[高薪高压 vs 稳定降薪](samples/decision_card_sample.md)（完整版含 20 张双语决策场景卡 + 70 张地区事实卡）
 
-喜欢这个质量，完整版在这里购买：[Agensi · US](https://agensi.io/creators/xixi)
+喜欢这个质量？Gumroad 完整版 US$35 一次性购买：[立即查看 WDI](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence?utm_source=github&utm_medium=readme&utm_campaign=wdi_gumroad_launch_20261026)；也可通过 [Agensi](https://agensi.io/creators/xixi) 购买。
 
 ## Get the full version · 购买完整版
 
-👉 **[Agensi — Women's Decision Intelligence · US$35](https://agensi.io/creators/xixi)**
+👉 **[Buy WDI on Gumroad — US$35 one-time | 在 Gumroad 购买 WDI](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence?utm_source=github&utm_medium=readme&utm_campaign=wdi_gumroad_launch_20261026)**
+
+Also available on [Agensi](https://agensi.io/creators/xixi) / 同时在 Agensi 销售。
 
 一次性付费 · 含完整 Skill、22 案例库、框架、playbooks、双语决策卡与 70 张地区事实卡 · 适用于 Claude / Claude Code / Antigravity 及任何支持 skill 文件的 AI Agent。
 
