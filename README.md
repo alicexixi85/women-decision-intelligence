@@ -108,6 +108,13 @@ Layer 1: Female Case Knowledge Base（全景真实人物 YAML 档案）
 
 ---
 
+## Free local MCP preview · 免费六维决策 MCP 预览
+
+A **runnable Python 3.11+ MCP stdio server** is now available in this existing public repository:
+[**Install & use the free MCP preview**](MCP_PREVIEW.md) · [source](wdi_mcp_preview.py) · [offline tests](test_wdi_mcp_preview.py).
+
+It exposes `review_six_constraints` only: cash, time, caregiving, safety, control, institutions, with evidence grades `KNOWN / ASSUMED / UNKNOWN / SYNTHETIC`. It is a minimal local **preview**, not the paid full WDI Skill, and neither sends data to a cloud service nor gives licensed professional advice.
+
 ## Free 7-minute decision worksheet · 7分钟免费决策清单
 
 [**Try the bilingual six-constraint checklist (free, no sign-in)**](FREE-DECISION-CHECKLIST.md) — Cash, time, care, safety, decision control, and institutional barriers. It includes a direct link to the $35 WDI product for readers who need the guided version.
